@@ -1,0 +1,1932 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
+<xbel version="1.0">
+<!--- highestId :642: for Floccus bookmark sync browser extension -->
+
+<folder id="1">
+  <title>Bookmarks Bar</title>
+  <bookmark href="http://consulta.siiau.udg.mx/wco/sspseca.forma_consulta" id="4">
+    <title></title>
+  </bookmark>
+  <bookmark href="chrome://downloads/" id="5">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://www.google.com.mx/?gfe_rd=cr&amp;ei=gV23VKGID5aBpAP6ioHgAg" id="6">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://translate.google.com/?hl=es-419" id="7">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://drive.google.com/drive/u/0/my-drive" id="8">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/?hl=es-419&amp;gl=MX" id="9">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://www.twitch.tv/" id="10">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://www.tiktok.com/" id="11">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://login.live.com/login.srf?wa=wsignin1.0&amp;rpsnv=12&amp;ct=1454513262&amp;rver=6.4.6456.0&amp;wp=MBI_SSL_SHARED&amp;wreply=https:%2F%2Fmail.live.com%2Fdefault.aspx%3Fmkt%3Des-us%26rru%3Dinbox&amp;lc=2058&amp;id=64855&amp;mkt=es-us&amp;cbcxt=mai" id="12">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://espanol.yahoo.com/" id="13">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://es-la.facebook.com/" id="24">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://www.occ.com.mx/dashboard" id="25">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://secure.indeed.com/account/login?hl=es_MX&amp;co=MX&amp;continue=https%3A%2F%2Fmx.indeed.com%2F&amp;tmpl=desktop&amp;service=my&amp;from=gnav-util-homepage&amp;jsContinue=https%3A%2F%2Fmx.indeed.com%2F&amp;empContinue=https%3A%2F%2Faccount.indeed.com%2Fmyaccess&amp;_ga=2.82283414.1406981076.1627014834-994826682.1627014834" id="26">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://www.linkedin.com/" id="27">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://web.whatsapp.com/" id="28">
+    <title></title>
+  </bookmark>
+  <bookmark href="http://siiauescolar.siiau.udg.mx/wus/gupprincipal.inicio" id="29">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://web.skype.com/" id="30">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://www.google.com/maps" id="31">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://azure.microsoft.com/es-es/get-started/azure-portal" id="32">
+    <title>Azure</title>
+  </bookmark>
+  <bookmark href="https://play.google.com/console/u/0/developers/6935641037066465584/app-list" id="33">
+    <title>Dev Console</title>
+  </bookmark>
+  <bookmark href="https://oracle.taleo.net/careersection/2/mysubmissions.ftl" id="36">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://www.terabox.com/main?category=all" id="37">
+    <title>TeraBox</title>
+  </bookmark>
+  <bookmark href="https://www.cetesdirecto.com/SSOSVD_wls/" id="38">
+    <title>CETES</title>
+  </bookmark>
+  <folder id="39">
+    <title>PERSONAL</title>
+    <bookmark href="https://programassociales.jalisco.gob.mx/beneficiarios/" id="46">
+      <title>Beneficiarios</title>
+    </bookmark>
+    <bookmark href="http://www.cucsh.udg.mx/academicos/certificacion_idiomas" id="47">
+      <title>Certificación de Idiomas | Centro Universitario de Ciencias Sociales y Humanidades</title>
+    </bookmark>
+    <bookmark href="https://www.imacinglestotal.com/certificaciones/toefl/" id="48">
+      <title>Certificacion de Ingles TOEFL ITP | Certifica Oficialmente tu nivel de Ingles en IMAC Ingles Total</title>
+    </bookmark>
+    <bookmark href="http://www.ef.com.mx/certificados-ingles/toefl/" id="49">
+      <title>Examen TOEFL | TOEFL 2017 | Guía de Certificados de Inglés</title>
+    </bookmark>
+    <bookmark href="http://flip.cga.udg.mx/" id="50">
+      <title>FLIP-UdG</title>
+    </bookmark>
+    <bookmark href="http://gogonihon.com/es?ref=sp" id="51">
+      <title>go go nihon</title>
+    </bookmark>
+    <bookmark href="https://www.bls.gov/ooh/" id="52">
+      <title>Home : Occupational Outlook Handbook: : U.S. Bureau of Labor Statistics</title>
+    </bookmark>
+    <bookmark href="https://www.topuniversities.com/university-rankings/world-university-rankings/2018" id="53">
+      <title>QS World University Rankings 2018 | Top Universities</title>
+    </bookmark>
+    <bookmark href="http://10.214.47.252/login.php?wlan=65537&amp;token=SpFxF_T_SZ1Jpvl_H5P8Zw!!&amp;dest=www.gstatic.com/generate_204" id="54">
+      <title>Captive Portal</title>
+    </bookmark>
+    <bookmark href="http://10.214.47.253/login.php?wlan=65537&amp;token=SpFxF_T_SZ1Jpvl_H5P8Zw!!&amp;dest=go.microsoft.com/fwlink/?LinkID=219472&amp;clcid=0x409" id="55">
+      <title>CP</title>
+    </bookmark>
+    <bookmark href="http://148.202.248.67/webflip/registroflip/?q=inicio" id="272">
+      <title>inicio | Flip</title>
+    </bookmark>
+    <bookmark href="http://www.cucei.udg.mx/es/servicios/practicas-profesionales" id="273">
+      <title>practicas</title>
+    </bookmark>
+    <bookmark href="http://www.cucei.udg.mx/servicios/practicas-profesionales/licenciatura-en-ingenieria-informatica" id="274">
+      <title>Prácticas profesionales para la Licenciatura en Ingeniería Informática | Centro Universitario de Ciencias Exactas e Ingenierías</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/user/freejapaneselessons3/featured" id="275">
+      <title>JAPONES 日本語の森 YUHADAYO DUNGMORI - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.kira-teachings.com/" id="276">
+      <title>Japonés con Kira Sensei - Cursos de japonés gratis para autodidactas</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=tVBRSm74owE&amp;list=PLllPoQsCFXIdASyq8nsnAlKvqDqsRDjN-" id="277">
+      <title>Lo Que No Te Explican de Wa y Ga - Partículas del Japonés (Parte 1) - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=tVBRSm74owE&amp;list=PLllPoQsCFXIdASyq8nsnAlKvqDqsRDjN-" id="278">
+      <title>Lo Que No Te Explican de Wa y Ga - Partículas del Japonés (Parte 1) - YouTube</title>
+    </bookmark>
+    <bookmark href="http://librojapon.blogspot.com/2013/01/minna-no-nihongo_3.html?m=1" id="279">
+      <title>Libro Japón: Minna no Nihongo (MF) (MEGA)</title>
+    </bookmark>
+    <bookmark href="http://www.fundacionjapon.es/es/Actividades/Lengua-Japonesa/evento/27/manual-de-gramAtica-marugoto-(niveles-a1-a-b1-1)" id="280">
+      <title>Actividades Lengua Japonesa :: FUNDACIÓN JAPÓN MADRID</title>
+    </bookmark>
+  </folder>
+  <folder id="40">
+    <title>UTILIDADES</title>
+    <folder id="56">
+      <title>HERRAMIENTAS</title>
+      <bookmark href="http://www.wolframalpha.com/" id="91">
+        <title>Wolfram|Alpha: Computational Intelligence</title>
+      </bookmark>
+      <bookmark href="https://es.symbolab.com/" id="92">
+        <title>Symbolab Math Solver - Step by Step calculator</title>
+      </bookmark>
+      <bookmark href="https://matrixcalc.org/es/" id="93">
+        <title>Calculadora de Matrices</title>
+      </bookmark>
+      <bookmark href="https://matrixcalc.org/es/slu.html" id="94">
+        <title>Resolver sistemas de ecuaciones lineales online</title>
+      </bookmark>
+      <bookmark href="https://web2.0calc.es/" id="95">
+        <title>Web 2.0 calculadora científica</title>
+      </bookmark>
+      <bookmark href="http://es.onlinemschool.com/" id="96">
+        <title>Aprendizaje de matemáticas online</title>
+      </bookmark>
+      <bookmark href="http://www.disfrutalasmatematicas.com/numeros/binario-decimal-hexadecimal-conversor.html" id="97">
+        <title>Conversor binario/decimal/hexadecimal</title>
+      </bookmark>
+      <bookmark href="https://www.base64decode.org/" id="98">
+        <title>Base64 Decode and Encode - Online</title>
+      </bookmark>
+      <bookmark href="http://www.dpriver.com/pp/sqlformat.htm" id="99">
+        <title>Instant SQL Formatter</title>
+      </bookmark>
+      <bookmark href="http://www.cva.itesm.mx/biblioteca/pagina_con_formato_version_oct/apaweb.html" id="100">
+        <title>formato APA</title>
+      </bookmark>
+      <bookmark href="https://www.diagrams.net/" id="308">
+        <title>Diagrams</title>
+      </bookmark>
+      <bookmark href="https://compressnow.com/es/" id="309">
+        <title>Comprimir Imagen en línea</title>
+      </bookmark>
+      <bookmark href="https://www.download-time.com/es/" id="310">
+        <title>El tiempo de descarga - Calcular el tiempo de descarga de archivos</title>
+      </bookmark>
+      <bookmark href="https://www.speedtest.net/es" id="311">
+        <title>Speedtest por Ookla - La prueba de velocidad de banda ancha global</title>
+      </bookmark>
+      <bookmark href="https://es.mictests.com/" id="312">
+        <title>Prueba de micrófono</title>
+      </bookmark>
+      <bookmark href="https://www.cetesdirecto.com/calculadoras/cetes" id="313">
+        <title>cetesdirecto - Calculadora</title>
+      </bookmark>
+      <bookmark href="https://regexr.com/" id="314">
+        <title>RegExr: Learn, Build, &amp; Test RegEx</title>
+      </bookmark>
+      <bookmark href="https://www.regextester.com/96554" id="315">
+        <title>Regex Tester/Debugger</title>
+      </bookmark>
+      <bookmark href="https://regex101.com/r/kUW4Ug/1" id="316">
+        <title>regex101</title>
+      </bookmark>
+      <bookmark href="https://flask.io/TaGg9ntvSeWt" id="317">
+        <title>My to-do list 07/07/2023 ✔ Flask Lists</title>
+      </bookmark>
+      <bookmark href="https://mibait.com/home.html" id="410">
+        <title>Consumo Bait</title>
+      </bookmark>
+      <bookmark href="https://chat.openai.com/" id="411">
+        <title>ChatGPT</title>
+      </bookmark>
+      <bookmark href="https://www.deepseek.com/" id="412">
+        <title>DeepSeek</title>
+      </bookmark>
+      <bookmark href="https://leonardo.ai/" id="413">
+        <title>AI Art Generator - Create Art, Images &amp; More | Leonardo AI</title>
+      </bookmark>
+      <bookmark href="https://gemini.google.com/app/2befcb309ffcb12e" id="414">
+        <title>Gemini</title>
+      </bookmark>
+      <bookmark href="https://www.yougetsignal.com/tools/open-ports/" id="415">
+        <title>Open Port Check Tool - Test Port Forwarding on Your Router</title>
+      </bookmark>
+      <bookmark href="https://www.ionos.mx/tools/direccion-ip" id="416">
+        <title>¿Cual es mi IP fija? » Descubre tu dirección IP | IONOS</title>
+      </bookmark>
+      <bookmark href="http://192.168.100.1/" id="417">
+        <title>MI MODEM HG8145V5</title>
+      </bookmark>
+      <bookmark href="http://tplinkwifi.net/webpages/index.html?t=75d0b951#networkMap" id="418">
+        <title>AX5400 Wi-Fi 6 Router</title>
+      </bookmark>
+      <bookmark href="https://www.worldtimebuddy.com/" id="419">
+        <title>Time Converter and World Clock - Conversion at a Glance - Pick best time to schedule conference calls, webinars, online meetings and phone calls.</title>
+      </bookmark>
+      <bookmark href="https://www.ilovepdf.com/es/word_a_pdf" id="481">
+        <title>Convertir Word a PDF | Documentos DOC a PDF</title>
+      </bookmark>
+      <bookmark href="https://www.unixtimestamp.com/" id="482">
+        <title>Unix Time Stamp - Epoch Converter</title>
+      </bookmark>
+      <bookmark href="https://chat.deepseek.com/a/chat/s/3063a608-f9fb-4c12-a8c6-ce7d905dbaef" id="483">
+        <title>DeepSeek - Into the Unknown</title>
+      </bookmark>
+    </folder>
+    <folder id="57">
+      <title>INFORMACION</title>
+      <bookmark href="https://es.ccm.net/faq/605-como-eliminar-datos-del-disco-duro-definitivamente" id="101">
+        <title>Como eliminar datos del disco duro definitivamente</title>
+      </bookmark>
+      <bookmark href="https://elcodigoascii.com.ar/" id="102">
+        <title>El código ASCII Completo, tabla con los codigos ASCII completos, caracteres simbolos letras ascii, ascii codigo, tabla ascii, codigos ascii, caracteres ascii, codigos, tabla, caracteres, simbolos, control, imprimibles, extendido, letras, vocales, signos,</title>
+      </bookmark>
+      <bookmark href="https://github.com/jatubio/5minutos_laravel/wiki/Estandares-de-programacion.-PSR-2" id="103">
+        <title>Estandares de programacion. PSR 2 · jatubio/5minutos_laravel Wiki · GitHub</title>
+      </bookmark>
+      <bookmark href="http://www.miguelms.com/usbfntfs.htm" id="104">
+        <title>Memorias USB: Formatear con NTFS para evitar que los virus infecten las memorias USB</title>
+      </bookmark>
+      <bookmark href="https://people.ece.cornell.edu/land/courses/ece4760/FinalProjects/s2004/dtc24/report/index.htm" id="105">
+        <title>The Ultimate MP3 Radio</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=3aT_luXPUsU" id="106">
+        <title>Solucion tu licencia de windows expirara pronto W10 - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.windows-commandline.com/show-delete-hidden-files-command-prompt/" id="107">
+        <title>List or delete hidden files from command prompt(CMD)</title>
+      </bookmark>
+      <bookmark href="https://www.diskpart.com/articles/show-hidden-files-command-line-8523.html#:~:text=1.,hidden%20files%20in%20drive%20F." id="108">
+        <title>How-to｜Show Hidden Files Using Command Lines in Windows 11/10/8/7</title>
+      </bookmark>
+      <bookmark href="https://www.lifewire.com/delete-windows-recovery-partition-4128723" id="109">
+        <title>How to Delete a Windows Recovery Partition</title>
+      </bookmark>
+      <bookmark href="https://learn.microsoft.com/es-es/windows-server/get-started/kms-client-activation-keys?tabs=server2022%2Cwindows10ltsc%2Cversion1803%2Cwindows81" id="110">
+        <title>Claves de producto y activación de cliente del Servicio de administración de claves (KMS) para Windows Server y Windows | Microsoft Learn</title>
+      </bookmark>
+      <bookmark href="https://massgrave.dev/" id="318">
+        <title>Microsoft Activation Scripts (MAS) | MAS</title>
+      </bookmark>
+      <bookmark href="https://www.freeformatter.com/cron-expression-generator-quartz.html" id="319">
+        <title>Free Online Cron Expression Generator and Describer - FreeFormatter.com</title>
+      </bookmark>
+    </folder>
+    <folder id="58">
+      <title>PROGRAMAS</title>
+      <bookmark href="https://codeanywhere.com/" id="111">
+        <title>Codeanywhere · Cross Platform Cloud IDE</title>
+      </bookmark>
+      <bookmark href="https://compressor.io/" id="112">
+        <title>Compressor.io - optimize and compress JPEG photos and PNG images</title>
+      </bookmark>
+      <bookmark href="https://es.wordpress.org/" id="113">
+        <title>Español — WordPress</title>
+      </bookmark>
+      <bookmark href="https://www.gitkraken.com/" id="114">
+        <title>Git GUI for Windows, Mac &amp; Linux | GitKraken</title>
+      </bookmark>
+      <bookmark href="https://pixlr.com/" id="115">
+        <title>Photo editor online - Pixlr.com</title>
+      </bookmark>
+      <bookmark href="https://www.mysql.com/products/workbench/" id="116">
+        <title>MySQL :: MySQL Workbench</title>
+      </bookmark>
+      <bookmark href="https://pdf2doc.com/" id="117">
+        <title>PDF to DOC – Convert PDF to Word Online</title>
+      </bookmark>
+      <bookmark href="https://www.virtualbox.org/" id="118">
+        <title>Oracle VM VirtualBox</title>
+      </bookmark>
+      <bookmark href="https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html" id="119">
+        <title>Download PuTTY: latest release (0.70)</title>
+      </bookmark>
+      <bookmark href="https://getintopc.com/" id="120">
+        <title>Get Into PC - Download Free Your Desired App</title>
+      </bookmark>
+      <bookmark href="https://community2.cloud-2.automationanywhere.digital/#/login?next=/index" id="320">
+        <title>Log in | Control Room | Automation Anywhere</title>
+      </bookmark>
+      <bookmark href="https://cad.onshape.com/documents?resourceType=resourceuserowner&amp;nodeId=66356c899d750015afb1468a" id="321">
+        <title>ON SHAPE</title>
+      </bookmark>
+    </folder>
+    <folder id="59">
+      <title>VIDEOS</title>
+      <bookmark href="https://www.youtube.com/watch?v=Zs4jFf1rr44&amp;t=6s" id="121">
+        <title>Descargar Windows 8.1 Pro + Bootear en USB [32 y 64 bits]|Full/Español| 2016 - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=1JGQvpkkJ-4" id="122">
+        <title>DESCARGAR DRAGON BALL FIGHTERZ + MULTIPLAYER ONLINE | Verox PiviGames - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=hBQadEOYw7I" id="123">
+        <title>(1) How to install and configure Django in Ubuntu - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=oP6_lumWUo8" id="124">
+        <title>(3) Install MongoDb for PHP Laravel - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=sxvO2_y6nGM&amp;t=101s" id="125">
+        <title>(3) Proyecto C# - Administrador de Procesos - Tutoriales y mas - YouTube</title>
+      </bookmark>
+    </folder>
+  </folder>
+  <folder id="41">
+    <title>OCIO</title>
+    <folder id="60">
+      <title>ANIME</title>
+      <folder id="126">
+        <title>COLECCION</title>
+        <bookmark href="https://www.animeyt.tv/18if" id="281">
+          <title>18if</title>
+        </bookmark>
+        <bookmark href="http://www.animeyt.tv/aho-girl" id="282">
+          <title>Aho Girl</title>
+        </bookmark>
+        <bookmark href="http://www.animeyt.tv/alice-to-zouroku" id="283">
+          <title>Alice to Zouroku</title>
+        </bookmark>
+        <bookmark href="http://www.animeyt.tv/another" id="284">
+          <title>Another</title>
+        </bookmark>
+        <bookmark href="https://www.animeyt.tv/ballroom-e-youkoso" id="285">
+          <title>Ballroom e Youkoso</title>
+        </bookmark>
+        <bookmark href="http://www.animeyt.tv/black-rock-shooter" id="286">
+          <title>Black★Rock Shooter</title>
+        </bookmark>
+        <bookmark href="http://www.animeyt.tv/boku-no-hero-academia" id="287">
+          <title>Boku no Hero Academia</title>
+        </bookmark>
+        <bookmark href="http://www.animeyt.tv/boku-no-hero-academia-2nd-season" id="288">
+          <title>Boku no Hero Academia 2nd Season</title>
+        </bookmark>
+        <bookmark href="http://www.animeyt.tv/chobits-audio-espanol" id="289">
+          <title>Chobits</title>
+        </bookmark>
+        <bookmark href="http://animeflv.net/anime/cyclops-shoujo-saipu.html" id="290">
+          <title>Cyclops Shoujo Saipu </title>
+        </bookmark>
+        <bookmark href="http://www.animeyt.tv/dagashi-kashi" id="388">
+          <title>Dagashi Kashi</title>
+        </bookmark>
+        <bookmark href="https://www.animeyt.tv/death-note" id="389">
+          <title>Death Note</title>
+        </bookmark>
+        <bookmark href="http://www.animeyt.tv/death-note-audio-latino" id="390">
+          <title>Death Note Audio Latino</title>
+        </bookmark>
+        <bookmark href="http://www.animeyt.tv/death-parade" id="391">
+          <title>Death Parade</title>
+        </bookmark>
+        <bookmark href="http://www.animeyt.tv/demi-chan-wa-kataritai" id="392">
+          <title>Demi-chan wa Kataritai</title>
+        </bookmark>
+        <bookmark href="https://www.animeyt.tv/devilman-crybaby-audio-espanol" id="393">
+          <title>Devilman: Crybaby Audio Español</title>
+        </bookmark>
+        <bookmark href="http://www.animeyt.tv/dragon-ball-super" id="394">
+          <title>Dragon Ball Super</title>
+        </bookmark>
+        <bookmark href="http://www.animeyt.tv/drifters" id="395">
+          <title>Drifters</title>
+        </bookmark>
+        <bookmark href="https://www.animeyt.tv/elfen-lied" id="396">
+          <title>Elfen Lied</title>
+        </bookmark>
+        <bookmark href="http://www.animeyt.tv/busqueda?terminos=evangelion" id="397">
+          <title>Evangelion</title>
+        </bookmark>
+        <bookmark href="http://www.animeyt.tv/full-metal-alchemist-audio-latino" id="458">
+          <title>Full Metal Alchemist audio latino</title>
+        </bookmark>
+        <bookmark href="http://www.animeyt.tv/full-metal-panic" id="459">
+          <title>Full Metal Panic!</title>
+        </bookmark>
+        <bookmark href="http://www.animeyt.tv/full-metal-panic-the-second-raid" id="460">
+          <title>Full Metal Panic! The Second Raid</title>
+        </bookmark>
+        <bookmark href="http://www.animeyt.tv/busqueda?terminos=fumo" id="461">
+          <title>Fumoffu</title>
+        </bookmark>
+        <bookmark href="http://www.animeyt.tv/gabriel-dropout" id="462">
+          <title>Gabriel DropOut</title>
+        </bookmark>
+        <bookmark href="https://www.animeyt.tv/gamers" id="463">
+          <title>Gamers!</title>
+        </bookmark>
+        <bookmark href="https://www.animeyt.tv/gate" id="464">
+          <title>Gate</title>
+        </bookmark>
+        <bookmark href="http://www.animeyt.tv/gosick" id="465">
+          <title>Gosick</title>
+        </bookmark>
+        <bookmark href="http://www.animeyt.tv/hajimete-no-gal" id="466">
+          <title>Hajimete no Gal</title>
+        </bookmark>
+        <bookmark href="http://www.animeyt.tv/hataraku-maou-sama" id="467">
+          <title>Hataraku Maou-sama!</title>
+        </bookmark>
+        <bookmark href="http://www.animeyt.tv/hellsing-audio-latino" id="493">
+          <title>Hellsing audio latino</title>
+        </bookmark>
+        <bookmark href="http://www.animeyt.tv/hellsing-ultimate" id="494">
+          <title>Hellsing Ultimate</title>
+        </bookmark>
+        <bookmark href="http://www.animeyt.tv/himouto-umaru-chan" id="495">
+          <title>Himouto! Umaru-chan</title>
+        </bookmark>
+        <bookmark href="https://www.animeyt.tv/jikan-no-shihaisha" id="496">
+          <title>Jikan no Shihaisha</title>
+        </bookmark>
+        <bookmark href="http://www.animeyt.tv/kakegurui" id="497">
+          <title>Kakegurui</title>
+        </bookmark>
+        <bookmark href="http://kenichienlatino.blogspot.mx/2015/06/kenichi-audio-latino-lista-de-capitulos.html#.VywBH9J95NB" id="498">
+          <title>Kenichi</title>
+        </bookmark>
+        <bookmark href="http://www.animeyt.tv/kiznaiver" id="499">
+          <title>Kiznaiver</title>
+        </bookmark>
+        <bookmark href="http://www.animeyt.tv/kobayashi-san-chi-no-maid-dragon" id="500">
+          <title>Kobayashi-san Chi no Maid Dragon</title>
+        </bookmark>
+        <bookmark href="http://www.animeyt.tv/ver/koe-no-katachi-sub-espanol" id="501">
+          <title>Koe no Katachi sub español - AnimeYT</title>
+        </bookmark>
+        <bookmark href="http://www.animeyt.tv/koi-to-uso" id="502">
+          <title>Koi to Uso</title>
+        </bookmark>
+        <bookmark href="http://www.animeyt.tv/koutetsujou-no-kabaneri" id="518">
+          <title>Koutetsujou no Kabaneri</title>
+        </bookmark>
+        <bookmark href="http://www.animeyt.tv/kuma-miko" id="519">
+          <title>Kuma Miko</title>
+        </bookmark>
+        <bookmark href="https://animeflv.ru/anime/3405/kuroshitsuji-subbed" id="520">
+          <title>Kuroshitsuji</title>
+        </bookmark>
+        <bookmark href="https://www.animeyt.tv/kuzu-no-honkai" id="521">
+          <title>Kuzu no Honkai</title>
+        </bookmark>
+        <bookmark href="https://www.animeyt.tv/made-in-abyss" id="522">
+          <title>Made in Abyss</title>
+        </bookmark>
+        <bookmark href="http://animeflv.net/anime/maho-shojo.html" id="523">
+          <title>Madoka Magica Maho Shojo</title>
+        </bookmark>
+        <bookmark href="http://www.animeyt.tv/mahou-shoujo-madoka-magica-peliculas" id="524">
+          <title>Mahou Shoujo Madoka★Magica Peliculas</title>
+        </bookmark>
+        <bookmark href="http://www.animeyt.tv/masamune-kun-no-revenge" id="525">
+          <title>Masamune-kun no Revenge</title>
+        </bookmark>
+        <bookmark href="http://www.animeyt.tv/mob-psycho-100" id="526">
+          <title>Mob Psycho 100</title>
+        </bookmark>
+        <bookmark href="http://www.animeyt.tv/monster-musume-no-iru-nichijou" id="527">
+          <title>Monster Musume no Iru Nichijou</title>
+        </bookmark>
+        <bookmark href="http://www.animeyt.tv/busqueda?terminos=NANATSU+NO+TAIZAI" id="540">
+          <title>Nanatsu No Taizai</title>
+        </bookmark>
+        <bookmark href="http://www.animeyt.tv/naruto-shippuden" id="541">
+          <title>Naruto</title>
+        </bookmark>
+        <bookmark href="http://www.animeyt.tv/one-punch-man" id="542">
+          <title>One Punch Man</title>
+        </bookmark>
+        <bookmark href="http://www.animeyt.tv/onihei" id="543">
+          <title>Onihei</title>
+        </bookmark>
+        <bookmark href="http://www.animeyt.tv/plastic-memories" id="544">
+          <title>Plastic Memories</title>
+        </bookmark>
+        <bookmark href="http://www.animeyt.tv/prison-school" id="545">
+          <title>Prison School</title>
+        </bookmark>
+        <bookmark href="http://www.animeyt.tv/re-zero-kara-hajimeru-isekai-seikatsu" id="546">
+          <title>Re:Zero</title>
+        </bookmark>
+        <bookmark href="http://www.animeyt.tv/relife" id="547">
+          <title>ReLIFE</title>
+        </bookmark>
+        <bookmark href="http://www.animeyt.tv/renai-boukun" id="548">
+          <title>Renai Boukun</title>
+        </bookmark>
+        <bookmark href="http://www.animeyt.tv/rokka-no-yuusha" id="549">
+          <title>Rokka no Yuusha</title>
+        </bookmark>
+        <bookmark href="http://www.animeyt.tv/school-days" id="556">
+          <title>School Days</title>
+        </bookmark>
+        <bookmark href="http://animeflv.net/ova/shijou-saikyou-no-deshi-kenichi-ovas.html" id="557">
+          <title>Shijou Saikyou no Deshi Kenichi OVA</title>
+        </bookmark>
+        <bookmark href="http://www.animeyt.tv/shimoneta" id="558">
+          <title>Shimoneta</title>
+        </bookmark>
+        <bookmark href="http://www.animeyt.tv/shingeki-no-kyojin" id="559">
+          <title>Shingeki No Kyojin</title>
+        </bookmark>
+        <bookmark href="http://www.animeyt.tv/shingeki-no-kyojin-2" id="560">
+          <title>Shingeki no Kyojin 2</title>
+        </bookmark>
+        <bookmark href="http://www.animeyt.tv/sukasuka" id="561">
+          <title>Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka? </title>
+        </bookmark>
+        <bookmark href="http://www.animeyt.tv/steins-gate" id="562">
+          <title>Steins;Gate</title>
+        </bookmark>
+        <bookmark href="http://www.animeyt.tv/busqueda?terminos=subarashi" id="563">
+          <title>Subarshii</title>
+        </bookmark>
+        <bookmark href="http://www.animeyt.tv/taboo-tattoo" id="564">
+          <title>Taboo Tattoo</title>
+        </bookmark>
+        <bookmark href="http://animeflv.net/anime/tenjou-tenge.html" id="565">
+          <title>Tenjou Tenge</title>
+        </bookmark>
+        <bookmark href="http://jkanime.co/Anime/7066/towa-no-quon-2011-subbed/" id="573">
+          <title>Towa no Quon</title>
+        </bookmark>
+        <bookmark href="http://www.animeyt.tv/tsugumomo" id="574">
+          <title>Tsugumomo</title>
+        </bookmark>
+        <bookmark href="http://www.animeyt.tv/watamote" id="575">
+          <title>Watamote</title>
+        </bookmark>
+        <bookmark href="http://www.animeyt.tv/yosuga-no-sora" id="576">
+          <title>Yosuga no sora</title>
+        </bookmark>
+        <bookmark href="http://www.animeyt.tv/youjo-senki" id="577">
+          <title>Youjo Senki</title>
+        </bookmark>
+        <bookmark href="http://www.animeyt.tv/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e" id="578">
+          <title>Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e</title>
+        </bookmark>
+        <bookmark href="https://www.animeyt.tv/centaur-no-nayami" id="579">
+          <title>Centaur no Nayami</title>
+        </bookmark>
+        <bookmark href="https://www.animeyt.tv/blend-s" id="580">
+          <title>Blend S</title>
+        </bookmark>
+        <bookmark href="https://www.animeyt.tv/dies-irae" id="581">
+          <title>Dies irae</title>
+        </bookmark>
+        <bookmark href="https://www.animeyt.tv/houseki-no-kuni" id="582">
+          <title>Houseki no Kuni</title>
+        </bookmark>
+        <bookmark href="https://www.animeyt.tv/himouto-umaru-chan-r" id="592">
+          <title>Himouto! Umaru-chan R</title>
+        </bookmark>
+        <bookmark href="https://www.animeyt.tv/juuni-taisen" id="593">
+          <title>Juuni Taisen</title>
+        </bookmark>
+        <bookmark href="https://www.animeyt.tv/busqueda?terminos=rozen" id="594">
+          <title>Resultados búsqueda para &quot;rozen&quot;</title>
+        </bookmark>
+        <bookmark href="https://www.animeyt.tv/deadman-wonderland" id="595">
+          <title>Deadman Wonderland</title>
+        </bookmark>
+        <bookmark href="https://www.animeyt.tv/kekkai-sensen-beyond" id="596">
+          <title>Kekkai Sensen &amp; Beyond</title>
+        </bookmark>
+        <bookmark href="https://www.animeyt.tv/kujira-no-kora-wa-sajou-ni-utau" id="597">
+          <title>Kujira no Kora wa Sajou ni Utau</title>
+        </bookmark>
+        <bookmark href="https://www.animeyt.tv/mahoutsukai-no-yome" id="598">
+          <title>Mahoutsukai no Yome</title>
+        </bookmark>
+        <bookmark href="https://www.animeyt.tv/shoujo-shuumatsu-ryokou" id="599">
+          <title>Shoujo Shuumatsu Ryokou</title>
+        </bookmark>
+        <bookmark href="https://www.animeyt.tv/dagashi-kashi-2" id="600">
+          <title>Dagashi Kashi 2</title>
+        </bookmark>
+        <bookmark href="https://animeflv.ru/anime/11256/jin-roh-the-wolf-brigade-1999" id="601">
+          <title>Ver Jin-Roh The Wolf Brigade 1999 online gratis | AnimeFLV</title>
+        </bookmark>
+        <bookmark href="https://www.animeyt.tv/darling-in-the-franxx" id="609">
+          <title>Darling in the FranXX</title>
+        </bookmark>
+        <bookmark href="https://www.animeyt.tv/kimi-no-na-wa" id="610">
+          <title>Kimi no Na wa.</title>
+        </bookmark>
+        <bookmark href="https://www.animeyt.tv/grancrest-senki" id="611">
+          <title>Grancrest Senki</title>
+        </bookmark>
+        <bookmark href="https://m.animeflv.net/anime/5040/killing-bites" id="612">
+          <title>Ver Killing Bites Capítulos Online - AnimeFLV</title>
+        </bookmark>
+        <bookmark href="https://m.animeflv.net/anime/5018/kokkoku" id="613">
+          <title>Ver Kokkoku Capítulos Online - AnimeFLV</title>
+        </bookmark>
+        <bookmark href="https://m.animeflv.net/anime/5041/nanatsu-no-taizai-imashime-no-fukkatsu" id="614">
+          <title>Ver Nanatsu no Taizai: Imashime no Fukkatsu Capítulos Online - AnimeFLV</title>
+        </bookmark>
+        <bookmark href="https://m.animeflv.net/browse?q=Overlord" id="615">
+          <title>Buscador Avanzado - AnimeFLV</title>
+        </bookmark>
+        <bookmark href="https://m.animeflv.net/anime/5030/violet-evergarden" id="616">
+          <title>Ver Violet Evergarden Capítulos Online - AnimeFLV</title>
+        </bookmark>
+        <bookmark href="https://m.animeflv.net/anime/5033/death-march-kara-hajimaru-isekai-kyousoukyoku" id="617">
+          <title>Ver Death March kara Hajimaru Isekai Kyousoukyoku Capítulos Online - AnimeFLV</title>
+        </bookmark>
+        <bookmark href="https://m.animeflv.net/anime/5101/caligula" id="618">
+          <title>Ver Caligula Capítulos Online - AnimeFLV</title>
+        </bookmark>
+        <bookmark href="https://m.animeflv.net/anime/5146/boku-no-hero-academia-3rd-season" id="623">
+          <title>Ver Boku no Hero Academia 3rd Season Capítulos Online - AnimeFLV</title>
+        </bookmark>
+        <bookmark href="https://m.animeflv.net/anime/2350/oshiete-galko-chan" id="624">
+          <title>Ver Oshiete! Galko-chan Capítulos Online - AnimeFLV</title>
+        </bookmark>
+        <bookmark href="https://m.animeflv.net/anime/5097/devils-line" id="625">
+          <title>Ver Devils Line Capítulos Online - AnimeFLV</title>
+        </bookmark>
+        <bookmark href="https://m.animeflv.net/anime/4654/nanbaka" id="626">
+          <title>Ver Nanbaka Capítulos Online - AnimeFLV</title>
+        </bookmark>
+        <bookmark href="https://m.animeflv.net/anime/5583/katsute-kami-datta-kemonotachi-e" id="627">
+          <title>Ver Katsute Kami Datta Kemono-tachi e Capítulos Online - AnimeFLV</title>
+        </bookmark>
+        <bookmark href="https://m.animeflv.net/anime/4577/dimension-w" id="628">
+          <title>Ver Dimension W Capítulos Online - AnimeFLV</title>
+        </bookmark>
+        <bookmark href="https://m.animeflv.net/anime/2967/maoyu-mao-yuusha" id="629">
+          <title>Ver Maoyu Mao Yuusha Capítulos Online - AnimeFLV</title>
+        </bookmark>
+        <bookmark href="https://m.animeflv.net/browse?q=Hitsugi+no+chaika" id="630">
+          <title>Hitsugi no chaika</title>
+        </bookmark>
+        <bookmark href="https://m.animeflv.net/anime/4624/keijo" id="631">
+          <title>Ver Keijo!!!!!!!! Capítulos Online - AnimeFLV</title>
+        </bookmark>
+        <bookmark href="https://m.animeflv.net/anime/4878/netjuu-no-susume" id="632">
+          <title>Ver Net-juu no Susume Capítulos Online - AnimeFLV</title>
+        </bookmark>
+        <bookmark href="https://m.animeflv.net/anime/5165/isekai-maou-to-shoukan-shoujo-no-dorei-majutsu" id="633">
+          <title>Ver Isekai Maou to Shoukan Shoujo no Dorei Majutsu Capítulos Online - AnimeFLV</title>
+        </bookmark>
+        <bookmark href="https://m.animeflv.net/browse?q=Anohana" id="634">
+          <title>Anohana</title>
+        </bookmark>
+        <bookmark href="https://m.animeflv.net/anime/2076/gakkou-gurashi" id="635">
+          <title>Ver Gakkou Gurashi! Capítulos Online - AnimeFLV</title>
+        </bookmark>
+        <bookmark href="https://m.animeflv.net/anime/485/katanagatari" id="636">
+          <title>Ver Katanagatari Capítulos Online - AnimeFLV</title>
+        </bookmark>
+        <bookmark href="https://m.animeflv.net/anime/5515/dororo" id="637">
+          <title>Ver Dororo Capítulos Online - AnimeFLV</title>
+        </bookmark>
+        <bookmark href="https://www.animefenix.com/yakusoku-no-neverland" id="638">
+          <title>Yakusoku no Neverland Online HD</title>
+        </bookmark>
+        <bookmark href="https://m.animeflv.net/anime/3884/bakemonogatari" id="639">
+          <title>Ver Bakemonogatari Capítulos Online - AnimeFLV</title>
+        </bookmark>
+        <bookmark href="https://m.animeflv.net/anime/3888/nisemonogatari" id="640">
+          <title>Ver Nisemonogatari Capítulos Online - AnimeFLV</title>
+        </bookmark>
+        <bookmark href="https://m.animeflv.net/anime/3886/nekomonogatari-kuro" id="641">
+          <title>Ver Nekomonogatari (Kuro) Capítulos Online - AnimeFLV</title>
+        </bookmark>
+        <bookmark href="https://m.animeflv.net/anime/3891/monogatari-series-second-season" id="642">
+          <title>Ver Monogatari Series: Second Season Capítulos Online - AnimeFLV</title>
+        </bookmark>
+      </folder>
+      <folder id="127">
+        <title>ESTRENO</title>
+        <bookmark href="http://www.animeyt.tv/hand-shakers" id="291">
+          <title>Hand Shakers</title>
+        </bookmark>
+        <bookmark href="http://www.animeyt.tv/boruto-naruto-next-generations" id="292">
+          <title>Boruto: Naruto Next Generations</title>
+        </bookmark>
+        <bookmark href="http://www.animeyt.tv/fullmetal-alchemist-brotherhood-audio-latino" id="293">
+          <title>Fullmetal Alchemist: Brotherhood Audio Latino</title>
+        </bookmark>
+        <bookmark href="http://www.animeyt.tv/to-love-ru-darkness-2nd" id="294">
+          <title>To Love Ru Darkness 2nd</title>
+        </bookmark>
+        <bookmark href="http://www.animeyt.tv/busqueda?terminos=HIGH+SCHOOL+" id="295">
+          <title>High School</title>
+        </bookmark>
+        <bookmark href="http://www.animeyt.tv/nanatsu-no-taizai-seisen-no-shirushi" id="296">
+          <title>Nanatsu no Taizai: Seisen no Shirushi</title>
+        </bookmark>
+        <bookmark href="https://www.animeyt.tv/busqueda?terminos=Fate" id="297">
+          <title>Resultados búsqueda para &quot;Fate&quot;</title>
+        </bookmark>
+        <bookmark href="https://www.animeyt.tv/busqueda?terminos=Accel" id="298">
+          <title>Resultados búsqueda para &quot;Accel&quot;</title>
+        </bookmark>
+        <bookmark href="https://www.animeyt.tv/busqueda?terminos=Jojo" id="299">
+          <title>Resultados búsqueda para &quot;Jojo&quot;</title>
+        </bookmark>
+        <bookmark href="https://www.animeyt.tv/busqueda?terminos=Clan" id="300">
+          <title>Resultados búsqueda para &quot;Clan&quot;</title>
+        </bookmark>
+        <bookmark href="https://www.animeyt.tv/code-geass" id="398">
+          <title>Code Geass</title>
+        </bookmark>
+        <bookmark href="https://www.animeyt.tv/ore-monogatari" id="399">
+          <title>Ore Monogatari</title>
+        </bookmark>
+        <bookmark href="https://www.animeyt.tv/busqueda?terminos=Bleac" id="400">
+          <title>Resultados búsqueda para &quot;Bleac&quot;</title>
+        </bookmark>
+        <bookmark href="https://www.animeyt.tv/kara-no-kyoukai-the-garden-of-sinners" id="401">
+          <title>Kara no Kyoukai: The Garden of Sinners</title>
+        </bookmark>
+        <bookmark href="https://www.animeyt.tv/ansatsu-kyoushitsu" id="402">
+          <title>Ansatsu Kyoushitsu</title>
+        </bookmark>
+        <bookmark href="https://www.animeyt.tv/claymore" id="403">
+          <title>Claymore</title>
+        </bookmark>
+        <bookmark href="https://www.animeyt.tv/monster" id="404">
+          <title>Monster</title>
+        </bookmark>
+        <bookmark href="https://www.animeyt.tv/machine-doll-wa-kizutsukanai" id="405">
+          <title>Machine-Doll wa Kizutsukanai</title>
+        </bookmark>
+        <bookmark href="https://www.animeyt.tv/rurouni-kenshin-meiji-kenkaku-romantan" id="406">
+          <title>Rurouni Kenshin: Meiji Kenkaku Romantan</title>
+        </bookmark>
+        <bookmark href="https://www.animeyt.tv/busqueda?terminos=Durar" id="407">
+          <title>Resultados búsqueda para &quot;Durar&quot;</title>
+        </bookmark>
+        <bookmark href="https://www.animeyt.tv/busqueda?terminos=Pass" id="468">
+          <title>Resultados búsqueda para &quot;Pass&quot;</title>
+        </bookmark>
+        <bookmark href="https://www.animeyt.tv/busqueda?terminos=Saint" id="469">
+          <title>Resultados búsqueda para &quot;Saint&quot;</title>
+        </bookmark>
+        <bookmark href="https://www.animeyt.tv/shinsekai-yori" id="470">
+          <title>Shinsekai yori</title>
+        </bookmark>
+        <bookmark href="https://www.animeyt.tv/busqueda?terminos=Hunter" id="471">
+          <title>Resultados búsqueda para &quot;Hunter&quot;</title>
+        </bookmark>
+        <bookmark href="https://www.animeyt.tv/busqueda?terminos=Higura" id="472">
+          <title>Resultados búsqueda para &quot;Higura&quot;</title>
+        </bookmark>
+        <bookmark href="https://www.animeyt.tv/b-the-beginning" id="473">
+          <title>B: THE BEGINNING</title>
+        </bookmark>
+        <bookmark href="https://www.animeyt.tv/suzumiya-haruhi-no-yuuutsu" id="474">
+          <title>Suzumiya Haruhi no Yuuutsu</title>
+        </bookmark>
+        <bookmark href="https://www.animeyt.tv/jigoku-shoujo-yoi-no-togi" id="475">
+          <title>Jigoku Shoujo: Yoi no Togi</title>
+        </bookmark>
+        <bookmark href="https://www.animeyt.tv/ano-hi-mita-hana-no-namae-wo-bokutachi-wa-mada-shiranai" id="476">
+          <title>Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.</title>
+        </bookmark>
+        <bookmark href="https://www.animeyt.tv/souryo-to-majiwaru-shikiyoku-no-yoru-ni" id="477">
+          <title>Souryo to Majiwaru Shikiyoku no Yoru ni...</title>
+        </bookmark>
+        <bookmark href="https://www.animeyt.tv/saiyuuki-reload-blast" id="503">
+          <title>Saiyuuki Reload Blast</title>
+        </bookmark>
+        <bookmark href="https://www.animeyt.tv/busqueda?terminos=garo" id="504">
+          <title>Resultados búsqueda para &quot;garo&quot;</title>
+        </bookmark>
+        <bookmark href="https://www.animeyt.tv/busqueda?terminos=gintama" id="505">
+          <title>Resultados búsqueda para &quot;gintama&quot;</title>
+        </bookmark>
+        <bookmark href="https://www.animeyt.tv/busqueda?terminos=YUUKI+YUUNA" id="506">
+          <title>Resultados búsqueda para &quot;YUUKI YUUNA&quot;</title>
+        </bookmark>
+        <bookmark href="https://www.animeyt.tv/busqueda?terminos=hold" id="507">
+          <title>Resultados búsqueda para &quot;hold&quot;</title>
+        </bookmark>
+        <bookmark href="https://www.animeyt.tv/busqueda?terminos=Black+clo" id="508">
+          <title>Resultados búsqueda para &quot;Black clo&quot;</title>
+        </bookmark>
+        <bookmark href="https://www.animeyt.tv/busqueda?terminos=Basil" id="509">
+          <title>Basilisk</title>
+        </bookmark>
+        <bookmark href="https://www.animeyt.tv/dragon-ball-heroes" id="510">
+          <title>Dragon Ball Heroes</title>
+        </bookmark>
+        <bookmark href="https://www.animeyt.tv/karakai-jouzu-no-takagi-san" id="511">
+          <title>Karakai Jouzu no Takagi-san</title>
+        </bookmark>
+        <bookmark href="https://m.animeflv.net/" id="512">
+          <title>Anime Online HD Sub Español - AnimeFLV</title>
+        </bookmark>
+        <bookmark href="https://m.animeflv.net/anime/5039/hakyuu-houshin-engi" id="528">
+          <title>Ver Hakyuu Houshin Engi Capítulos Online - AnimeFLV</title>
+        </bookmark>
+        <bookmark href="https://m.animeflv.net/ver/48729/full-metal-panic-invisible-victory-1" id="529">
+          <title>Full Metal Panic! Invisible Victory 1 - AnimeFLV</title>
+        </bookmark>
+        <bookmark href="https://m.animeflv.net/browse?q=Baki" id="530">
+          <title>Baki</title>
+        </bookmark>
+        <bookmark href="https://m.animeflv.net/browse?q=Tensei" id="531">
+          <title>Tensei shitara slime</title>
+        </bookmark>
+        <bookmark href="https://m.animeflv.net/anime/5114/full-metal-panic-invisible-victory" id="532">
+          <title>Ver Full Metal Panic! Invisible Victory Capítulos Online - AnimeFLV</title>
+        </bookmark>
+        <bookmark href="https://m.animeflv.net/anime/5628/hataage-kemono-michi" id="533">
+          <title>Ver Hataage! Kemono Michi Capítulos Online - AnimeFLV</title>
+        </bookmark>
+      </folder>
+    </folder>
+    <folder id="61">
+      <title>JUEGOS</title>
+      <folder id="128">
+        <title>DESCARGAR JUEGOS</title>
+        <bookmark href="https://www.gamezfull.com/" id="301">
+          <title>Gamezfull | Descargar juegos gratis para PC Full en Español</title>
+        </bookmark>
+        <bookmark href="https://juegosdepcfull.com/?s=bayonetta" id="302">
+          <title>Has buscado - 🥇 Juegos de PC Full</title>
+        </bookmark>
+        <bookmark href="https://compu-pc.com/juegos-pc/" id="303">
+          <title>Descargar Juegos PC Full Español</title>
+        </bookmark>
+      </folder>
+      <bookmark href="https://www.systemrequirementslab.com/cyri" id="129">
+        <title>Can You RUN It | Can I run that game | Game system requirements</title>
+      </bookmark>
+      <bookmark href="https://www.gamestorrents.to/" id="130">
+        <title>GamesTorrents | Descargar Juegos Gratis Torrent</title>
+      </bookmark>
+      <bookmark href="https://swskillsim.leayal.tk/stella/?lv=55&amp;4=5&amp;5=3&amp;7=5&amp;8=2&amp;9=1&amp;10=1&amp;13=5&amp;16=1&amp;17=5&amp;20=5&amp;21=3&amp;22=5&amp;23=5&amp;1001=3&amp;1003=2&amp;1006=2&amp;1005=3&amp;1007=1&amp;1009=4&amp;1011=3" id="131">
+        <title>Skill Simulator</title>
+      </bookmark>
+      <bookmark href="http://eu.wildraiderz.com/Index.aspx" id="132">
+        <title>Wild</title>
+      </bookmark>
+      <bookmark href="https://docs.google.com/spreadsheets/d/1i1KUwgVkd8qhwYj481gkV9sZNJQCE-C3Q-dpQutPCi4/edit#gid=242217075" id="133">
+        <title>Destiny 2 Damage Buffs/Debuffs Stacking Graphic + Combatant Types/Champions/Rocket Launchers Guides - [v7.3.4] - Hojas de cálculo de Google</title>
+      </bookmark>
+      <bookmark href="https://docs.google.com/spreadsheets/d/1WaxvbLx7UoSZaBqdFr1u32F2uWVLo-CJunJB4nlGUE4/edit?gid=1038486120#gid=1038486120" id="134">
+        <title>Destiny Data Compendium - Hojas de cálculo de Google</title>
+      </bookmark>
+      <bookmark href="https://d2checkpoint.com/" id="135">
+        <title>D2Checkpoint.com</title>
+      </bookmark>
+      <bookmark href="https://screenrant.com/destiny-2-checkpoint-bot-how-to-use/" id="136">
+        <title>Destiny 2: How to Use The Checkpoint Bot</title>
+      </bookmark>
+      <bookmark href="https://app.destinyitemmanager.com/4611686018527599500/d2/inventory" id="137">
+        <title>DIM - Inventory</title>
+      </bookmark>
+      <bookmark href="https://www.light.gg/" id="322">
+        <title>Destiny 2 Database, Loadouts &amp; Builds, God Rolls, Collection Manager, and Leaderboards - light.gg</title>
+      </bookmark>
+      <bookmark href="https://www.bungie.net/7/en/Seasons/PreviousSeason" id="323">
+        <title>PREVIOS SEASON DESTINY 2</title>
+      </bookmark>
+      <bookmark href="https://aternos.org/go/" id="324">
+        <title>Login or Sign up | Aternos | Free Minecraft Server</title>
+      </bookmark>
+      <bookmark href="https://docs.google.com/spreadsheets/d/1ZSwY5JghziiWjkZPfwXQYJj1AOTxg0OnzpLobHRKeT4/edit?gid=0#gid=0" id="325">
+        <title>ONCE HUMAN - Memetic SpecializationsTier List - Hojas de cálculo de Google</title>
+      </bookmark>
+      <bookmark href="https://mapgenie.io/once-human" id="326">
+        <title>Once Human Map | Map Genie</title>
+      </bookmark>
+      <bookmark href="https://www.vg247.com/best-once-human-polluted-areas" id="327">
+        <title>Best Once Human Polluted Areas for base building | VG247</title>
+      </bookmark>
+      <bookmark href="https://qrsj-map.lzhailalu.com/" id="328">
+        <title>once human 【星川游戏菌】七日世界互动地图_最全七日世界攻略_七日世界查询工具_七日世界攻略站</title>
+      </bookmark>
+      <bookmark href="https://docs.google.com/spreadsheets/d/1bLqxzNMyZ9rQe3GbzFQ9nlqH9H_98zOCecPe7iV_0YU/htmlview?gid=1409749012" id="329">
+        <title>Mods, Substats - Once Human - Google Drive</title>
+      </bookmark>
+      <bookmark href="https://oncehuman.th.gl/" id="330">
+        <title>Once Human Interactive Map – The Hidden Gaming Lair</title>
+      </bookmark>
+      <bookmark href="https://gamingwithdaopa.ellatha.com/once-human/deviant-traits/" id="420">
+        <title>Once Human Deviant Traits</title>
+      </bookmark>
+      <bookmark href="https://docs.google.com/spreadsheets/d/1xgM-_PbOaEBeZkSTz4IgW_clId0DSthvulUnCO2Xn6I/edit?gid=1155982723#gid=1155982723" id="421">
+        <title>Weapon Tierlist - Once Human - Hojas de cálculo de Google</title>
+      </bookmark>
+      <bookmark href="https://docs.google.com/spreadsheets/d/1sUURE_xghXVIQMfggK1YsDuTK-9Qc_DFnYvfTMtkHEY/edit?gid=1217721447#gid=1217721447" id="422">
+        <title>Doomeris - Corrosion Build - Hojas de cálculo de Google</title>
+      </bookmark>
+      <bookmark href="https://docs.google.com/spreadsheets/d/12_d9DKNCkORRKe3vNrBfvlYsdlm9M6ejMaId8KqT7G8/edit?gid=86929957#gid=86929957" id="423">
+        <title>Specialization Tierlist - Once Human - Hojas de cálculo de Google</title>
+      </bookmark>
+      <bookmark href="https://www.oncehuman.game/news/update/20241123/40780_1195665.html" id="424">
+        <title>Once Human annual scenario &quot;The Way of Winter&quot; is live. Play for free now!</title>
+      </bookmark>
+    </folder>
+    <folder id="62">
+      <title>MUSICA</title>
+      <bookmark href="https://anison.fm/user/login" id="138">
+        <title>РАДИО</title>
+      </bookmark>
+      <bookmark href="https://9soundclouddownloader.com/" id="139">
+        <title>SoundCloud Downloader - Download SoundCloud to MP3</title>
+      </bookmark>
+      <bookmark href="https://soundcloud.com/carlos-carpy-mora/immoralist" id="140">
+        <title>Immoralist (Dragon Crisis OP) de Carlos Carpy Mora | Escúchalo gratis en SoundCloud</title>
+      </bookmark>
+      <bookmark href="http://www.shi-no-kakaku.com/2017/06/9mm-parabellum-bullet-sacrifice-2017.html" id="141">
+        <title>9mm Parabellum Bullet - Sacrifice (2017) [Berserk 2nd Season Opening] - Shi No Kakaku 死の価格</title>
+      </bookmark>
+    </folder>
+    <folder id="63">
+      <title>NOTICIAS</title>
+      <bookmark href="https://www.notisistema.com/" id="142">
+        <title>Notisistema</title>
+      </bookmark>
+      <bookmark href="http://www.rapifutbol.tv/canal/1221/canal-4-televisa-guadalajara/" id="143">
+        <title>Canal 4 Televisa Guadalajara en vivo y en directo online gratis | Rapifutbol</title>
+      </bookmark>
+      <bookmark href="http://televisaguadalajara.tv/en-vivo" id="144">
+        <title>Televisa en vivo | Televisa Guadalajara</title>
+      </bookmark>
+    </folder>
+    <folder id="64">
+      <title>PELICULAS</title>
+      <bookmark href="http://www.cinepolis.com/cartelera/guadalajara-oriente/cinepolis-forum-tlaquepaque" id="145">
+        <title>Cinépolis Fórum Tlaquepaque</title>
+      </bookmark>
+      <bookmark href="https://allcalidad.net/" id="146">
+        <title>ALLCALIDAD</title>
+      </bookmark>
+      <bookmark href="http://gnula.nu/" id="147">
+        <title>G Nula</title>
+      </bookmark>
+      <bookmark href="https://www.cinecalidad.to/" id="148">
+        <title>Cine Calidad</title>
+      </bookmark>
+    </folder>
+    <folder id="65">
+      <title>TUTORIALES</title>
+      <bookmark href="https://www.youtube.com/watch?v=gvp2oglK6Fg" id="149">
+        <title>(1) Descargar e Instalar |Metal Gear Rising: Revengeance | TORRENT - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=oMoMxUjoqyI" id="150">
+        <title>TOP 100 Games for Low SPEC PC (512 MB VRAM / 1 GB VRAM / Intel HD Graphics) - YouTube</title>
+      </bookmark>
+    </folder>
+    <folder id="66">
+      <title>VIDEOS</title>
+      <bookmark href="https://www.youtube.com/playlist?list=PLx5bHQDHxMwyg9MkozYBhPvhzHDhd__Kd" id="151">
+        <title>Hitomi Kuroishi</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=EYWOW24-lW0" id="152">
+        <title>(7) Midiendo el mundo - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=LVZzZ0Ej5Ow" id="153">
+        <title>(7) Una Mente Brillante Película completa en español latino - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=fyw11a4wDn8" id="154">
+        <title>(7) El gran misterio de las Matemáticas - YouTube</title>
+      </bookmark>
+    </folder>
+    <folder id="67">
+      <title>Manga</title>
+      <bookmark href="https://mangarock.com/manga/mrs-serie-226087/chapter/mrs-chapter-226088" id="155">
+        <title>Shoujo Shuumatsu Ryokou - Vol.1 Chapter 1: Starry Sky</title>
+      </bookmark>
+      <bookmark href="https://www.webtoons.com/en/romance/oh-holy/list?title_no=809" id="156">
+        <title>Oh! Holy, List1 | LINE WEBTOON</title>
+      </bookmark>
+    </folder>
+    <folder id="68">
+      <title>SERIES</title>
+      <bookmark href="http://southpark.cc.com/" id="157">
+        <title>South Park - Watch Full Episodes, Clips &amp; More | South Park Studios</title>
+      </bookmark>
+    </folder>
+    <folder id="69">
+      <title>MODELOS 3D</title>
+      <bookmark href="https://makerworld.com/en" id="158">
+        <title>MakerWorld</title>
+      </bookmark>
+      <bookmark href="https://www.printables.com/es/model" id="159">
+        <title>Base de datos de modelos 3D | Printables.com</title>
+      </bookmark>
+      <bookmark href="https://www.thingiverse.com/" id="160">
+        <title>Thingiverse - Digital Designs for Physical Objects</title>
+      </bookmark>
+      <bookmark href="https://grabcad.com/library" id="161">
+        <title>Popular models | 3D CAD Model Collection | GrabCAD Community Library</title>
+      </bookmark>
+      <bookmark href="https://3axis.co/" id="162">
+        <title>Free Vectors for Laser Cutting - 3axis.co</title>
+      </bookmark>
+      <bookmark href="https://www.yeggi.com/" id="163">
+        <title>yeggi - 3D Printer Models Search Engine</title>
+      </bookmark>
+      <folder id="164">
+        <title>IMPRESIONES POR VER</title>
+        <bookmark href="https://makerworld.com/en/models/973872-car-phone-holder?from=search#profileId-1098955" id="304">
+          <title>Car Phone Holder by 大摆杨 - MakerWorld</title>
+        </bookmark>
+      </folder>
+    </folder>
+  </folder>
+  <folder id="42">
+    <title>ESCUELA</title>
+    <folder id="70">
+      <title>PLATAFORMAS</title>
+      <bookmark href="https://trello.com/" id="165">
+        <title></title>
+      </bookmark>
+      <bookmark href="https://work.planbox.com/initiatives/154778#project_id%5B%5D=312993&amp;story_pane_tab=tasks" id="166">
+        <title></title>
+      </bookmark>
+      <bookmark href="http://proymoodle.cucei.udg.mx/course/view.php?id=498" id="167">
+        <title>Curso: I5889 - SEMINARIO DE SOLUCION DE PROBLEMAS DE ESTRUCTURAS DE DATOS II - D10</title>
+      </bookmark>
+      <bookmark href="https://app.schoology.com/register.php?type=student" id="168">
+        <title>Sign up for a Schoology Account</title>
+      </bookmark>
+      <bookmark href="https://app.schoology.com/home/recent-activity" id="169">
+        <title>Home | Schoology</title>
+      </bookmark>
+      <bookmark href="http://divecmoodle.cucei.udg.mx/" id="170">
+        <title>divecmoodle.cucei.udg.mx</title>
+      </bookmark>
+      <bookmark href="https://classroom.google.com/h" id="171">
+        <title>Clases</title>
+      </bookmark>
+      <bookmark href="http://moodle2.cucei.udg.mx/my/" id="172">
+        <title>Tablero</title>
+      </bookmark>
+    </folder>
+    <folder id="71">
+      <title>CURSOS</title>
+      <bookmark href="https://www.youtube.com/playlist?list=PLWtYZ2ejMVJlUu1rEHLC0i_oibctkl0Vh" id="173">
+        <title>PROGRA Curso de C++</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/playlist?list=PLU8oAlHdN5BmpUDdnWSglIIHfIosElaVN" id="174">
+        <title>PROGRA Curso de CSS Avanzado</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/playlist?list=PLU8oAlHdN5BnX63lyAeV0LzLnpGudgRrK" id="175">
+        <title>PROGRA Curso de HTML 5</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/playlist?list=PLDQZoQpLCoUCTF4OVK-cR8nxEq3y83gyt" id="176">
+        <title>PROGRA Curso de HTML5 - Diseño web </title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/playlist?list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID" id="177">
+        <title>PROGRA Curso de JavaScript</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/playlist?list=PLU8oAlHdN5BkinrODGXToK9oPAlnJxmW_" id="178">
+        <title>PROGRA Curso de PHP/MySQL</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/playlist?list=PLU8oAlHdN5Bmx-LChV4K3MbHrpZKefNwn" id="179">
+        <title>PROGRA Curso de SQL</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=coK4jM5wvko&amp;list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk" id="180">
+        <title>PROGRA Curso de Java</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/playlist?list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS" id="181">
+        <title>PROGRA Curso de Python</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/playlist?list=PLU8oAlHdN5Bk-qkvjER90g2c_jVmpAHBh" id="182">
+        <title>PROGRA Curso de Laravel</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/playlist?list=PLWtYZ2ejMVJmUTNE2QVaCd1y_6GslOeZ6" id="331">
+        <title>PROGRA Curso de C</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/playlist?list=PLhbcXfA7vHX64kzwPvdHGOsiPh9q3IOhF" id="332">
+        <title>PROGRA Curso de Visual C#</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/playlist?list=PLpOqH6AE0tNic0oQ_sqQLCNfaL5oEEBo6" id="333">
+        <title>PROGRA Curso de VB.NET</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/playlist?list=PL_wRgp7nihyYXeXZhOiZqKpAdwIRM28Ui" id="334">
+        <title>(9) CURSO SQL SERVER [USKOKRUM2010] - YouTube - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/playlist?list=PLZ0UFciczQg6eGwr2wjWU4-uXBAv8AK6D" id="335">
+        <title>Ingeniería de sistemas - Algoritmia básica (Lógica y representación I) - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/playlist?list=PLyvsggKtwbLX06iMtXnRGX5lyjiiMaT2y" id="336">
+        <title>Curso de programación Android desde cero - YouTube - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/playlist?list=PLfkODrpjGnhmzRSUC5L-M_BjkyavnSKXS" id="337">
+        <title>Curso de Android con Kotlin desde cero - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.nigbox.com/cursos/css-basico-desde-cero/" id="338">
+        <title>Curso CSS</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/playlist?list=PLkjnQ3NFTPnY1eNyLDGi547gkVui1vyn2" id="339">
+        <title>(6) Curso Arduino desde cero en Español fácil y didáctico - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/playlist?list=PL_c9BZzLwBRJ8f9-pSPbxSSG6lNgxQ4m9" id="340">
+        <title>Oracle SQL Tutorials - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/playlist?list=PLlxmoA0rQ-Lzd9-NUrP5Wi18OMi4R-zs_" id="425">
+        <title>Curso Android Material Design</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/playlist?list=PLAg6Lv5BbjjdvIcLQdVg4ROZnfuuQcqXB" id="426">
+        <title>Curso Android desde Cero</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=mUQZ1qmKlLY" id="427">
+        <title>C++ Tutorial From Basic to Advance</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=i8ruymr85Gg&amp;list=PLG8UtYUFOQj4PwdP1SusjENu-fPOh7bnZ" id="428">
+        <title>Curso Python graficos marpltlib</title>
+      </bookmark>
+    </folder>
+    <folder id="72">
+      <title>documentacion</title>
+      <bookmark href="https://laravel.com/docs/5.4" id="183">
+        <title>Installation - Laravel - The PHP Framework For Web Artisans</title>
+      </bookmark>
+      <bookmark href="https://msdn.microsoft.com/es-es" id="184">
+        <title>Aprender a desarrollar con Microsoft Developer Network | MSDN</title>
+      </bookmark>
+      <bookmark href="https://msdn.microsoft.com/en-us/" id="185">
+        <title>Learn to Develop with Microsoft Developer Network | MSDN</title>
+      </bookmark>
+      <bookmark href="https://laraveles.com/foro/viewtopic.php?id=120" id="186">
+        <title>[SOLUCIONADO] Consulta sobre relaciones con el ORM / Ayuda / Laravel en Español - Comunidad Hispanoamericana de Laravel</title>
+      </bookmark>
+      <bookmark href="https://laravelcollective.com/docs/master/html#installation" id="187">
+        <title>Laravel Collective</title>
+      </bookmark>
+      <bookmark href="https://laracasts.com/series/laravel-5-fundamentals/" id="188">
+        <title>Laravel 5 Fundamentals</title>
+      </bookmark>
+      <bookmark href="http://ingenio.chez.com/comandos.html#mkd" id="189">
+        <title>Comandos Linux:</title>
+      </bookmark>
+      <bookmark href="http://php.net/manual/es/language.types.array.php" id="190">
+        <title>PHP: Arrays - Manual</title>
+      </bookmark>
+      <bookmark href="https://github.com/fzaninotto/Faker" id="191">
+        <title>fzaninotto/Faker: Faker is a PHP library that generates fake data for you</title>
+      </bookmark>
+      <bookmark href="https://laravel.com/docs/5.4/blade" id="192">
+        <title>Blade Templates - Laravel - The PHP Framework For Web Artisans</title>
+      </bookmark>
+      <bookmark href="https://laravel.com/docs/5.4/middleware" id="341">
+        <title>Middleware - Laravel - The PHP Framework For Web Artisans</title>
+      </bookmark>
+      <bookmark href="http://www.maatwebsite.nl/laravel-excel/docs" id="342">
+        <title>Laravel Excel Documentation - Maatwebsite</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=pGam_9As_YA" id="343">
+        <title>(2) Laravel Tutorial - Adding a middleware to the admin section in Laravel 5.4 - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=aSlhx7WkKEA" id="344">
+        <title>(5) Descargar Windows 7 Ultimate | Iso Original | 32 y 64 Bits | 2017 - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=DSAoav2bCJA" id="345">
+        <title>#10 Curso de Laravel 5.3 Guardar archivos - YouTube</title>
+      </bookmark>
+      <bookmark href="http://itsolutionstuff.com/post/laravel-5-import-export-to-excel-and-csv-using-maatwebsite-exampleexample.html" id="346">
+        <title>Laravel 5 import export to excel and csv using maatwebsite example.</title>
+      </bookmark>
+      <bookmark href="https://support.office.com/es-es/article/Formatos-de-archivo-que-admite-Excel-0943ff2c-6014-4e8d-aaea-b83d51d46247" id="347">
+        <title>Formatos de archivo que admite Excel - Excel</title>
+      </bookmark>
+      <bookmark href="http://php.net/manual/es/function.ftp-mdtm.php" id="348">
+        <title>PHP: ftp_mdtm - Manual</title>
+      </bookmark>
+      <bookmark href="http://php.net/manual/es/language.types.string.php" id="349">
+        <title>PHP: Cadenas de caracteres (Strings) - Manual</title>
+      </bookmark>
+      <bookmark href="https://styde.net/modificando-migraciones-en-laravel/" id="350">
+        <title>Modificando migraciones en Laravel – Styde.net</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=Rhby8SBEYh8" id="429">
+        <title>(4) Laravel 5.4 Tutorial | Eloquent Polymorphic Relationship | Part 10 | Bitfumes - YouTube</title>
+      </bookmark>
+      <bookmark href="https://stackoverflow.com/questions/1869091/how-to-convert-an-array-to-object-in-php" id="430">
+        <title>How to convert an array to object in PHP? - Stack Overflow</title>
+      </bookmark>
+      <bookmark href="https://stackoverflow.com/questions/26005994/laravel-with-method-versus-load-method" id="431">
+        <title>laravel with() method versus load() method - Stack Overflow</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=nuLSVpqk19Q" id="432">
+        <title>(6) Tutorial Qt Creator - Microsoft SQL Server (SQL en C++) - YouTube</title>
+      </bookmark>
+      <bookmark href="https://github.com/jatubio/5minutos_laravel/wiki/Estandares-de-programacion.-PSR-2" id="433">
+        <title>Estandares de programacion. PSR 2 · jatubio/5minutos_laravel Wiki · GitHub</title>
+      </bookmark>
+      <bookmark href="https://github.com/" id="434">
+        <title>GitHub</title>
+      </bookmark>
+      <bookmark href="https://laravel.com/" id="435">
+        <title>Laravel</title>
+      </bookmark>
+      <bookmark href="https://itsolutionstuff.com/post/laravel-5-mongodb-crud-tutorialexample.html" id="436">
+        <title>Laravel 5 - MongoDB CRUD Tutorial</title>
+      </bookmark>
+      <bookmark href="https://medium.com/ruby-on-rails-web-application-development/how-to-install-rubyonrails-on-windows-7-8-10-complete-tutorial-2017-fc95720ee059" id="437">
+        <title>💊 How To Install #RubyonRails 💊 on Windows 7/8/10  —  Complete Tutorial 2018 (September 2018)</title>
+      </bookmark>
+      <bookmark href="https://platzi.com/cursos/programacion-basica/" id="438">
+        <title>Curso de Programación Básica gratis | Platzi</title>
+      </bookmark>
+    </folder>
+    <folder id="73">
+      <title>estudio</title>
+      <bookmark href="http://proulex.cengage.com/moodle/course/view.php?id=9" id="193">
+        <title></title>
+      </bookmark>
+      <bookmark href="http://proulex.cengage.com/moodle/course/view.php?id=7" id="194">
+        <title></title>
+      </bookmark>
+      <bookmark href="http://proulex.cengage.com/moodle/course/view.php?id=5&amp;section=1" id="195">
+        <title></title>
+      </bookmark>
+      <bookmark href="http://proulex.cengage.com/moodle/course/view.php?id=3" id="196">
+        <title>Curso: JOBS by PROULEX 4 English for Success</title>
+      </bookmark>
+      <bookmark href="http://www.geeksforgeeks.org/" id="197">
+        <title>GeeksforGeeks | A computer science portal for geeks</title>
+      </bookmark>
+      <bookmark href="http://www.urbandictionary.com/" id="198">
+        <title>Urban Dictionary</title>
+      </bookmark>
+      <bookmark href="http://hyperphysics.phy-astr.gsu.edu/hbasees/cseri.html" id="199">
+        <title>Infinite Series</title>
+      </bookmark>
+      <bookmark href="https://es.stackoverflow.com/questions/24131/como-cargar-un-archivo-de-texto-a-una-lista-enlazada-en-c/24147" id="200">
+        <title>dios xd</title>
+      </bookmark>
+      <bookmark href="file:///E:/seminario%20de%20estructura%20de%20datos%201/Manejo%20de%20archivos%20en%20C++.htm" id="201">
+        <title>Manejo de archivos en C++</title>
+      </bookmark>
+      <bookmark href="https://advancedsoftware.wordpress.com/2012/05/29/rotacion-en-r2-dos-dimensiones-2d/" id="202">
+        <title>Rotación de Coordenadas en R2, dos dimensiones o 2D. | AdvancedSoftware&apos;s Blog</title>
+      </bookmark>
+      <bookmark href="https://es.wikipedia.org/wiki/Matriz_de_rotaci%C3%B3n" id="351">
+        <title>Matriz de rotación</title>
+      </bookmark>
+      <bookmark href="http://www.esi2.us.es/~vivas/ayr2iaei/POS_OR.pdf" id="352">
+        <title>transformaciones lineales</title>
+      </bookmark>
+      <bookmark href="http://aprendiendo-javascript.readthedocs.io/es/latest/js_estructuras_de_datos.html" id="353">
+        <title>Estructuras de Datos javascript</title>
+      </bookmark>
+      <bookmark href="https://www.codejobs.biz/es/blog/2016/01/08/estructura-de-datos-y-algoritmos-con-javascript-listas-enlazadas-simples" id="354">
+        <title>JavaScript: Listas enlazadas simples</title>
+      </bookmark>
+      <bookmark href="http://www.abueloinformatico.es/vertutoriales.php?id=490&amp;titulo=%BFdonde_estan_las_cookies_en_windows_7?&amp;cat=Internet" id="355">
+        <title>cookies</title>
+      </bookmark>
+      <bookmark href="http://c.conclase.net/ficheros/?cap=002b" id="356">
+        <title>Ficheros C/C++ - Funciones C para ficheros</title>
+      </bookmark>
+      <bookmark href="https://www.w3schools.com/" id="357">
+        <title>W3Schools Online Web Tutorials</title>
+      </bookmark>
+      <bookmark href="https://docs.google.com/forms/d/19PBtlz65AbrKG1C4u3FnTaTxExEPGOlgDo07vv8fgmY/viewform?chromeless=1&amp;edit_requested=true" id="358">
+        <title>Solicitud de materias para verano 2018 ME</title>
+      </bookmark>
+      <bookmark href="https://www.tutorialspoint.com/cplusplus/cpp_operators.htm" id="359">
+        <title>Operators in C++</title>
+      </bookmark>
+      <bookmark href="https://www.tutorialspoint.com/cprogramming/c_operators.htm" id="360">
+        <title>C Operators</title>
+      </bookmark>
+    </folder>
+    <folder id="74">
+      <title>git</title>
+      <bookmark href="https://github.com/" id="203">
+        <title>GitHub</title>
+      </bookmark>
+      <bookmark href="https://github.com/samuelmg/dev-docs" id="204">
+        <title>samuelmg/dev-docs: Documentos de apoyo para desarrollo de sistemas basados en Laravel</title>
+      </bookmark>
+      <bookmark href="https://github.com/nigandres/social/commits/master" id="205">
+        <title>Commits · nigandres/social</title>
+      </bookmark>
+      <bookmark href="https://gitlab.com/" id="206">
+        <title>Projects · Dashboard · GitLab</title>
+      </bookmark>
+      <bookmark href="https://github.com/join/plan" id="207">
+        <title>GitHub · Where software is built</title>
+      </bookmark>
+      <bookmark href="https://github.com/hashicorp/vagrant/issues/2113" id="208">
+        <title>VAGRANT_HOME special characters don&apos;t work · Issue #2113 · hashicorp/vagrant</title>
+      </bookmark>
+      <bookmark href="https://desarrollo-cucei.slack.com/messages/CBAGLJ10T/" id="209">
+        <title>general | Desarrollo CUCEI Slack</title>
+      </bookmark>
+    </folder>
+    <folder id="75">
+      <title>Laravel</title>
+      <bookmark href="https://guia.test/" id="210">
+        <title>guia.test</title>
+      </bookmark>
+      <bookmark href="https://soko.test/" id="211">
+        <title>soko.test</title>
+      </bookmark>
+      <bookmark href="https://blog.test/" id="212">
+        <title>blog.test</title>
+      </bookmark>
+      <bookmark href="http://locallhost.com/" id="213">
+        <title>localhost</title>
+      </bookmark>
+      <bookmark href="http://itsolutionstuff.com/post/laravel-5-implementing-datatables-tutorial-using-yajra-packageexample.html" id="214">
+        <title>Laravel 5 - Implementing datatables tutorial using yajra package</title>
+      </bookmark>
+      <bookmark href="http://cheats.jesse-obrien.ca/" id="215">
+        <title>Laravel Cheat Sheet</title>
+      </bookmark>
+    </folder>
+    <folder id="76">
+      <title>TUTORIAS</title>
+      <bookmark href="https://www.youtube.com/watch?v=3CnAxGgvEmo" id="216">
+        <title>(2) Qt - Драйверы для работы с БД (QMYSQL, QIBASE, QPSQL) - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=jP7yCO3OvSY" id="217">
+        <title>(1) [DEBIAN] POSTFIX Y DOVECOT - SERVIDOR DE CORREO - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=0XGQIN9hfGQ" id="218">
+        <title>(1) How to add a form in Visual Studio 2017 C++ - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=-GnKwwc4KSA" id="219">
+        <title>(2) Tutorial Como Utilizar MySQL Workbench - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=8GCvZs55mEM" id="220">
+        <title>(2) Windows GUI Programming with C/C++ ( Win32 API ) | Part -1 | Creating a window - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=OSR3AaB_xXM" id="221">
+        <title>(4) How to Connect Microsoft Visual studio 2010 with | to SQL server 2008 ? - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=V9r-Gp3uNCE" id="222">
+        <title>(4) How to connect SQL server database with visual Studio C# - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=Qc9Smcr-huk" id="223">
+        <title>(4) QT C++ GUI Tutorial 7- How to connect Qt to SQLite - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=r_cj1uhs9-c" id="224">
+        <title>(4) Visual C++ Tutorial 24 -Windows Forms Application:Show database values in Table or DataGridView - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=X7103DmtYVg" id="225">
+        <title>(4) Visual C++ Tutorial: Connect to MySQL Database - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=3MvJRKBq2mg" id="361">
+        <title>(5) Conectar postgreSQL a visual studio - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=7QESZpBQAnM" id="362">
+        <title>(5) Facturacion PostgreSQL con visual studio 2010 - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=qTznb9ufH9Y" id="363">
+        <title>(5) Imagenes en Mysql y Java Netbeans, cargar y guardar imagenes - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.taringa.net/posts/info/12277493/Tutorial-Qt-4-Plugin-MySQL-para-Windows-con-MinGW.html" id="364">
+        <title>[Tutorial] Qt 4 + Plugin MySQL para Windows con MinGW - Info - Taringa!</title>
+      </bookmark>
+      <bookmark href="https://stackoverflow.com/questions/23785804/java-sliding-jpanels" id="365">
+        <title>animation - Java sliding JPanels - Stack Overflow</title>
+      </bookmark>
+      <bookmark href="http://c.conclase.net/mysql/index.php?cap=000#inicio" id="366">
+        <title>API C MySQL - Prólogo</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=LQ8Yp7QNBwI" id="367">
+        <title>BFS- Búsqueda en anchura - El camino más corto - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=7rA4pI7wTRA" id="368">
+        <title>C# Tutorial 74: Opening a file by clicking on it in Treeview - YouTube</title>
+      </bookmark>
+      <bookmark href="http://www.zedwood.com/article/cpp-md5-function" id="369">
+        <title>C++ md5 function :: zedwood.com</title>
+      </bookmark>
+      <bookmark href="https://docs.microsoft.com/en-us/sql/t-sql/functions/cast-and-convert-transact-sql" id="370">
+        <title>CAST and CONVERT (Transact-SQL) | Microsoft Docs</title>
+      </bookmark>
+      <bookmark href="https://www.pekalicious.com/blog/custom-jpanel-cell-with-jbuttons-in-jtable" id="439">
+        <title>Custom JPanel cell with JButtons in JTable — pek</title>
+      </bookmark>
+      <bookmark href="https://www.digitalocean.com/community/tutorials/how-to-configure-a-mail-server-using-postfix-dovecot-mysql-and-spamassassin" id="440">
+        <title>How To Configure a Mail Server Using Postfix, Dovecot, MySQL, and SpamAssassin | DigitalOcean</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=rGZvoV9qpvM" id="441">
+        <title>How To Create A Slider Panel Menu(version 1) In Visual Studio - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=pn3gKG9e9ag" id="442">
+        <title>How To Create A Slider Panel Menu(version 2) In Visual Studio - YouTube</title>
+      </bookmark>
+      <bookmark href="https://allaboutbasic.com/2010/12/28/java-how-to-know-in-which-row-and-column-i-have-clicked-on-jtable/" id="443">
+        <title>Java :How to know in which Row and Column I have clicked on JTable | All About Basic</title>
+      </bookmark>
+      <bookmark href="https://nideaderedes.urlansoft.com/2006/06/21/compilar-el-driver-mysql-para-qt-windows/" id="444">
+        <title>QT+MySQL (1ª parte): Compilar el driver MySQL para QT Windows | Nideaderedes</title>
+      </bookmark>
+      <bookmark href="https://nideaderedes.urlansoft.com/2006/06/22/qtmysql-2%c2%aa-parte-comprobar-si-esta-disponible-el-driver-mysql-para-qt/" id="445">
+        <title>QT+MySQL (2ª parte): Comprobar si está disponible el driver MySQL para QT | Nideaderedes</title>
+      </bookmark>
+      <bookmark href="https://nideaderedes.urlansoft.com/2006/06/23/qtmysql-3%C2%AA-parte-conectando-a-una-base-de-datos-mysql/" id="446">
+        <title>QT+Mysql (3ª parte): Conectando a una base de datos MySQL | Nideaderedes</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=L2M96NJRENg" id="447">
+        <title>YouTube SLIDER PANEL 3</title>
+      </bookmark>
+      <bookmark href="https://code.sololearn.com/c2XovH84x6DQ/#cpp" id="448">
+        <title>c++ assembly (add + multiply) [asm] | Code Playground</title>
+      </bookmark>
+    </folder>
+    <folder id="77">
+      <title>TEMAS</title>
+      <bookmark href="https://www.youtube.com/watch?v=U5aW5aR0qbU" id="226">
+        <title>MATE ¿Qué es el cálculo?</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=CG7mQgmgXC0" id="227">
+        <title>MATE ¿Qué es la derivada?</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=oxbeXaTPj50" id="228">
+        <title>MATE Cálculo I: Introducción a la derivada</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=Fp5NU8WvqFs" id="229">
+        <title>MATE Demostración de identidades trigonométricas de la suma y diferencia de dos ángulos</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=YQEi94ZOFO8&amp;t=1s" id="230">
+        <title>MATE Derivada de e^x</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=tomAzmDWslw" id="231">
+        <title>MATE Derivadas por Definición de Límite - Función Logarítmica</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=T9VhAi7WF5c" id="232">
+        <title>MATE forma rectangular y polar de un número complejO</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=T647CGsuOVU" id="233">
+        <title>MATE Imaginary Numbers Are Real [Part 1: Introducton]</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=fj5pF062WBk" id="234">
+        <title>MATE Operaciones de Numeros Complejos Casio fx-991ES</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=eWRICujdVQk" id="235">
+        <title>MATE Qué es la derivada ? Clase:1</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=csMhM9eEIF4" id="371">
+        <title>MATE Series de Taylor (Maclaurin)-Parte 1</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=RalJ7r3m1sY" id="372">
+        <title>MATE vector perpendicular a otros dos vectores</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=5djwKx-O8lk" id="373">
+        <title>MATE vertor perpendicular</title>
+      </bookmark>
+      <bookmark href="http://ict.udlap.mx/people/carlos/is341/bases03.html" id="374">
+        <title>3 Modelo relacional</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=1guHeST6Tzo" id="375">
+        <title>Demostración de la suma de i (Suma de Gauss) - YouTube</title>
+      </bookmark>
+      <bookmark href="http://neofronteras.com/?p=1860" id="376">
+        <title>NeoFronteras » Otras maneras de contar - Portada -</title>
+      </bookmark>
+      <bookmark href="http://www.cimat.mx/~amor/Omi/Entrenamiento/Grafos/Capitulo1.htm" id="377">
+        <title>Olimpiada de Informatica del Estado de Guanajuato</title>
+      </bookmark>
+      <bookmark href="https://books.google.com.mx/books?id=KUl9OqsCYOQC&amp;pg=PA25&amp;lpg=PA25&amp;dq=multiusuario+c%2B%2B&amp;source=bl&amp;ots=DaaGfreHqK&amp;sig=AJ3K034CJ442am3-zNtjufmxW8c&amp;hl=es-419&amp;sa=X&amp;ved=0ahUKEwjty_nk4Y3ZAhVEKawKHTt_C3IQ6AEIKDAA#v=onepage&amp;q=multiusuario%20c%2B%2B&amp;f=false" id="378">
+        <title>Programación en C++ para ingenieros - Pere-Pau Vazquez Alcocer, Jordi Marco Gomez, Angela Martin Prat, Xavier Molinero Albareda - Google Books</title>
+      </bookmark>
+    </folder>
+    <folder id="78">
+      <title>PROYECTO MODULAR</title>
+      <bookmark href="https://desarrollo-cucei.slack.com/home" id="236">
+        <title>Inicio | Desarrollo CUCEI Slack</title>
+      </bookmark>
+      <bookmark href="https://desarrollo-cucei.slack.com/messages/DC97MKTGS/" id="237">
+        <title>slackbot | Desarrollo CUCEI Slack</title>
+      </bookmark>
+    </folder>
+    <folder id="79">
+      <title>calcula</title>
+      <bookmark href="http://www.disfrutalasmatematicas.com/numeros/binario-decimal-hexadecimal-conversor.html" id="238">
+        <title>Conversor binario/decimal/hexadecimal</title>
+      </bookmark>
+      <bookmark href="https://www.topuniversities.com/university-rankings/world-university-rankings/2018" id="239">
+        <title>QS World University Rankings 2018 | Top Universities</title>
+      </bookmark>
+    </folder>
+  </folder>
+  <folder id="43">
+    <title>TRABAJO</title>
+    <folder id="80">
+      <title>TATA</title>
+      <bookmark href="https://www.ultimatix.net/uxportal/uxportalhome.html/Megamenu" id="240">
+        <title>Ultimatix: Digitally Connected</title>
+      </bookmark>
+      <bookmark href="https://myappexp.tcsapps.com/" id="241">
+        <title>MyApp Tata Consultancy Services</title>
+      </bookmark>
+      <bookmark href="https://www.facturemosya.com/consulta/home.php" id="242">
+        <title>Facturemosya - Consulta</title>
+      </bookmark>
+      <bookmark href="https://myappexp.tcsapps.com/" id="243">
+        <title>TATA Consultancy Services Limited</title>
+      </bookmark>
+    </folder>
+    <folder id="81">
+      <title>UIPATH</title>
+      <bookmark href="https://www.uipath.com/product/orchestrator" id="244">
+        <title>Automation Management Tools - Orchestrator | UiPath</title>
+      </bookmark>
+      <bookmark href="https://forum.uipath.com/t/database-insert-activity-should-bracket-column-names-with-spaces/226945" id="245">
+        <title>Database Insert activity should bracket column names with spaces - Help - UiPath Community Forum</title>
+      </bookmark>
+    </folder>
+    <folder id="82">
+      <title>AUTOMATION ANYWHERE</title>
+      <bookmark href="https://community2.cloud-2.automationanywhere.digital/" id="246">
+        <title>Iniciar sesión | Control Room | Automation Anywhere</title>
+      </bookmark>
+      <bookmark href="https://automationanywhere.litmos.com/home/LearningPath/117007?r=False&amp;ts=637823588858779798" id="247">
+        <title>Automation 360 RPA Essentials Student Prep</title>
+      </bookmark>
+    </folder>
+    <folder id="83">
+      <title>NISSAN</title>
+      <bookmark href="https://www.nissancommunity.com.mx/_layouts/15/Sp.Login.Custom/Login.aspx?ReturnUrl=%2fisitsap%2f_layouts%2f15%2fAuthenticate.aspx%3fSource%3d%252Fisitsap%252FSitePages%252FHome%252Easpx&amp;Source=%2Fisitsap%2FSitePages%2FHome%2Easpx" id="248">
+        <title>Sign In</title>
+      </bookmark>
+      <bookmark href="https://sur.ly/i/webmail.na.nissan.biz/" id="249">
+        <title>webmail.na.nissan.biz - Outlook Web App - Web Mail Na Nissan</title>
+      </bookmark>
+      <bookmark href="https://rnlatam.service-now.com/sp/sp?id=sc_cat_item&amp;sys_id=454bdab61bc460d0226ded7be54bcb66" id="250">
+        <title>Extensión de cuenta - Portal de servicios</title>
+      </bookmark>
+      <bookmark href="https://nnanissan.service-now.com/now/nav/ui/classic/params/target/com.glideapp.servicecatalog_checkout_view_v2.do%3Fsys_id%3D4bca9b1bc33af1549003b33599013175%26sysparm_new_request%3Dfalse%26sysparm_stack%3Dsc_request_list.do%253fsysparm_query%253dactive%253dtrue%26sysparm_sys_id%3D4bca9b1bc33af1549003b33599013175" id="251">
+        <title>Order Status: REQ0653137 | ServiceNow</title>
+      </bookmark>
+    </folder>
+    <folder id="84">
+      <title>VBA</title>
+      <bookmark href="https://powerspreadsheets.com/vba-create-pivot-table/" id="252">
+        <title>Excel VBA Create Pivot Table: Step-by-Step Guide and 4 Code Examples</title>
+      </bookmark>
+      <bookmark href="https://excelchamps.com/blog/vba-to-create-pivot-table/" id="253">
+        <title>VBA to Create a PIVOT TABLE in Excel - READY to use MACRO Code</title>
+      </bookmark>
+      <bookmark href="https://www.wallstreetmojo.com/vba-charts/" id="254">
+        <title>VBA Charts | Examples to Add Chart using VBA Code</title>
+      </bookmark>
+      <bookmark href="https://www.statology.org/vba-filter-pivot-table/" id="255">
+        <title>How to Filter Pivot Tables Using VBA (With Examples) - Statology</title>
+      </bookmark>
+    </folder>
+    <folder id="85">
+      <title>PEPSICO</title>
+      <folder id="256">
+        <title>grafana</title>
+        <bookmark href="https://grafana.dev.mypepsico.com/public-dashboards/80151d5b14a9473caf1fb2fb93b1495e?orgId=1" id="305">
+          <title>PepsiCo - Grafana</title>
+        </bookmark>
+      </folder>
+      <bookmark href="https://pepsico-prod.saas.appdynamics.com/controller/" id="257">
+        <title>AppDynamics</title>
+      </bookmark>
+      <bookmark href="https://app.fullstory.com/ui/o-1J2C2V-na1/spaces/QQbsamMrkkvQ?tab=home" id="258">
+        <title>Spaces | General | Fullstory</title>
+      </bookmark>
+      <bookmark href="https://teams.microsoft.com/v2/" id="259">
+        <title>Chat | CEP - VIP Team | Microsoft Teams</title>
+      </bookmark>
+      <bookmark href="https://pepsico.service-now.com/now/sow/home" id="260">
+        <title>Home | Service Operations Workspace | ServiceNow</title>
+      </bookmark>
+      <bookmark href="https://outlook.office.com/mail/" id="261">
+        <title>Correo: Solis, Andres - Contractor {PEP} - Outlook</title>
+      </bookmark>
+      <bookmark href="https://pepsicoprodus.kb.southcentralus.azure.elastic-cloud.com:9243/login?next=%2Fs%2Fit-monitoring-users%2Fapp%2Fhome#/" id="262">
+        <title>Elastic</title>
+      </bookmark>
+      <bookmark href="https://myidm.mypepsico.com/iam/im/pepsico/ca12/index.jsp" id="263">
+        <title>PepsiCo Identity Manager</title>
+      </bookmark>
+      <bookmark href="https://pepsico.sharepoint.com/teams/CEPTCSSupportTeam/_layouts/15/Doc.aspx?sourcedoc={e4311e93-3712-4c1f-ab93-bdbc12e30e0f}&amp;action=edit&amp;wd=target%28conmsultas%20sql.one%7Ca8b3f522-ae13-4814-a4d8-05b1930c14c0%2FQuerys%20para%20validar%20numeros%7C8842718f-cd1e-49c2-b3f7-9ac16f49230d%2F%29&amp;wdorigin=NavigationUrl" id="264">
+        <title>coso</title>
+      </bookmark>
+      <bookmark href="https://m365.cloud.microsoft/chat/?auth=2&amp;origindomain=Office" id="265">
+        <title>m365.cloud.microsoft/chat/?auth=2&amp;origindomain=Office&amp;client-request-id=7848f605-270e-4faf-9256-509dc74d066c</title>
+      </bookmark>
+      <bookmark href="https://admin.cep.ar.pepsico.com/pepsico/signin" id="379">
+        <title>Pepsico</title>
+      </bookmark>
+      <bookmark href="https://admin.cep.br.pepsico.com/pepsico/signin" id="380">
+        <title>Pepsico</title>
+      </bookmark>
+      <bookmark href="https://admin.cep.cl.pepsico.com/pepsico/signin" id="381">
+        <title>Pepsico</title>
+      </bookmark>
+      <bookmark href="https://admin.cep.co.pepsico.com/pepsico/signin" id="382">
+        <title>Pepsico</title>
+      </bookmark>
+      <bookmark href="https://admin.cep.do.pepsico.com/pepsico/signin" id="383">
+        <title>Pepsico</title>
+      </bookmark>
+      <bookmark href="https://admin.cep.es.pepsico.com/pepsico/signin" id="384">
+        <title>Pepsico</title>
+      </bookmark>
+      <bookmark href="https://admin.cep.mx.pepsico.com/pepsico/signin" id="385">
+        <title>Pepsico</title>
+      </bookmark>
+      <bookmark href="https://admin.cep.nz.pepsico.com/pepsico/signin" id="386">
+        <title>Pepsico</title>
+      </bookmark>
+      <bookmark href="https://admin.cep.pl.pepsico.com/pepsico/signin" id="387">
+        <title>Pepsico</title>
+      </bookmark>
+      <bookmark href="https://admin.cep.pt.pepsico.com/pepsico/signin" id="449">
+        <title>Pepsico</title>
+      </bookmark>
+      <bookmark href="https://admin.cep.ro.pepsico.com/pepsico/signin" id="450">
+        <title>Pepsico</title>
+      </bookmark>
+      <bookmark href="https://admin.cep.tr.pepsico.com/pepsico/signin" id="451">
+        <title>Pepsico</title>
+      </bookmark>
+      <bookmark href="https://admin.cep.ru.pepsico.com/pepsico/signin" id="452">
+        <title>Pepsico</title>
+      </bookmark>
+      <bookmark href="https://admin.cep.th.pepsico.com/pepsico/signin" id="453">
+        <title>Pepsico</title>
+      </bookmark>
+      <bookmark href="https://admin.cep.pt.qa.pepsico.com/admin/login?perspective=" id="454">
+        <title>PepsiCo | Customer Engagement Portal</title>
+      </bookmark>
+      <bookmark href="https://admin.cep.co.preprod.pepsico.com/admin/login?perspective=" id="455">
+        <title>PepsiCo | Customer Engagement Portal</title>
+      </bookmark>
+      <bookmark href="https://admin.cep.br.preprod.pepsico.com/admin/login?perspective=" id="456">
+        <title>Error de privacidad</title>
+      </bookmark>
+      <bookmark href="https://admin.cep.do.preprod.pepsico.com/admin/login?perspective=" id="457">
+        <title>PepsiCo | Customer Engagement Portal</title>
+      </bookmark>
+      <bookmark href="https://admin.cep.mx.preprod.pepsico.com/admin/login?perspective=" id="484">
+        <title>PepsiCo | Customer Engagement Portal</title>
+      </bookmark>
+      <bookmark href="https://conectados24h.es/" id="485">
+        <title>conectados24h.es</title>
+      </bookmark>
+      <bookmark href="https://dogovorilis24.ru/" id="486">
+        <title>dogovorilis24.ru</title>
+      </bookmark>
+      <bookmark href="https://dukkan-senin.com/" id="487">
+        <title>Dükkan Senin</title>
+      </bookmark>
+      <bookmark href="https://pepsicopartner.ro/" id="488">
+        <title>pepsicopartner.ro</title>
+      </bookmark>
+      <bookmark href="https://pede-recebe.pt/" id="489">
+        <title>pede-recebe.pt</title>
+      </bookmark>
+      <bookmark href="https://dev.azure.com/PepsiCoIT/Global_Data_Project/_workitems/recentlyupdated/" id="490">
+        <title>Work items - Boards</title>
+      </bookmark>
+    </folder>
+  </folder>
+  <folder id="44">
+    <title>SALUD</title>
+    <folder id="86">
+      <title>IMSS</title>
+      <bookmark href="https://citamedicadigital.imss.gob.mx/CMW/inicio.jsp" id="266">
+        <title>Cita Médica</title>
+      </bookmark>
+    </folder>
+  </folder>
+  <folder id="45">
+    <title>PAGOS</title>
+    <bookmark href="https://siapa.wispok.mx/" id="87">
+      <title>SIAPA wispok</title>
+    </bookmark>
+  </folder>
+  <folder id="88">
+    <title>COMPRAS</title>
+    <bookmark href="https://www.mercadolibre.com.mx/" id="267">
+      <title>MercadoLibre Mexico</title>
+    </bookmark>
+    <bookmark href="https://www.amazon.com.mx/" id="268">
+      <title>Amazon Mexico</title>
+    </bookmark>
+    <bookmark href="https://www.cyberpuerta.mx/" id="269">
+      <title>CyberPuerta Mexico</title>
+    </bookmark>
+    <bookmark href="https://mx.aliexpress.com/" id="270">
+      <title>AliExpress</title>
+    </bookmark>
+    <bookmark href="https://www.digitalife.com.mx/" id="271">
+      <title>Digitalife</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://10fastfingers.com/typing-test/spanish" id="89">
+    <title>test mecanografia</title>
+  </bookmark>
+  <bookmark href="http://patrimonio.test/" id="90">
+    <title>Patrimonio</title>
+  </bookmark>
+  <bookmark href="https://webstatic-sea.mihoyo.com/app/ys-map-sea/index.html?lang=es-es#/map/2?shown_types=194,2,3,154&amp;center=4715.00,3730.00&amp;zoom=0.00" id="306">
+    <title>Mapa interactivo de Teyvat</title>
+  </bookmark>
+  <bookmark href="https://ankiweb.net/decks/" id="307">
+    <title>Decks - AnkiWeb</title>
+  </bookmark>
+  <bookmark href="https://app.vsaex.visualstudio.com/me?mkt=en-US" id="408">
+    <title>My Information</title>
+  </bookmark>
+  <bookmark href="https://fontawesome.com/v4.7.0/icons/" id="409">
+    <title>Font Awesome Icons</title>
+  </bookmark>
+  <bookmark href="https://todoist.com/app?#project%2F2196610907" id="478">
+    <title>Bienvenido/a 👋: Todoist</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=riU9AJ-yOAc" id="479">
+    <title>(9) How to hack plants vs zombies 2 | No Root|Unlock All|Unlimited coins&amp;gems - YouTube</title>
+  </bookmark>
+  <bookmark href="https://docs.python.org/3.7/tutorial/index.html" id="480">
+    <title>The Python Tutorial — Python 3.7.1rc2 documentation</title>
+  </bookmark>
+  <bookmark href="https://docs.python.org/3.7/index.html" id="491">
+    <title>3.7.1rc2 Documentation</title>
+  </bookmark>
+  <bookmark href="https://docs.mongodb.com/manual/reference/method/db.collection.drop/" id="492">
+    <title>db.collection.drop() — MongoDB Manual</title>
+  </bookmark>
+  <bookmark href="https://meet.google.com/vxa-kcvr-zdv" id="513">
+    <title>Meet: vxa-kcvr-zdv</title>
+  </bookmark>
+  <bookmark href="http://steamworkshop.download/" id="514">
+    <title>SteamWorkshop.download</title>
+  </bookmark>
+  <bookmark href="https://cubettech.com/laravel-cassandra/" id="515">
+    <title>LACASSA - Cubet Techno Labs</title>
+  </bookmark>
+  <bookmark href="https://stackoverflow.com/questions/44374495/run-sh-file-using-exec-laravel-php" id="516">
+    <title>Run .sh file using exec Laravel PHP - Stack Overflow</title>
+  </bookmark>
+  <bookmark href="https://drive.google.com/file/d/1UC2rOrKC0S7UY-YS5xLsKh5jxJNP4raL/view?usp=drive_open" id="517">
+    <title>https://drive.google.com/file/d/1UC2rOrKC0S7UY-YS5xLsKh5jxJNP4raL/view?usp=drive_open</title>
+  </bookmark>
+  <bookmark href="https://docs.oracle.com/cd/E11882_01/server.112/e10575/tdpsg_auditing.htm#TDPSG50000" id="534">
+    <title>Auditing Database Activity</title>
+  </bookmark>
+  <bookmark href="https://www.charliejsanchez.com/2018/02/12/auditoria-en-oracle-11g/" id="535">
+    <title>Auditoria en Oracle 11g – CharlieJSanchez</title>
+  </bookmark>
+  <bookmark href="http://www.cattsolutions.com/oracle-auditing-insert-update-and-delete-on-a-table/" id="536">
+    <title>Oracle auditing insert, update, and delete on a table | Catt Solutions</title>
+  </bookmark>
+  <bookmark href="https://dev-notes.eu/2016/11/nested-resource-routes-in-laravel/" id="537">
+    <title>Nested Resource Routes in Laravel | Dev Notes</title>
+  </bookmark>
+  <bookmark href="https://support.google.com/accounts/answer/32040?visit_id=636791390662512758-935154817&amp;rd=1" id="538">
+    <title>Crear una contraseña segura - Ayuda de Cuenta de Google</title>
+  </bookmark>
+  <bookmark href="https://support.google.com/a/answer/6208960?utm_source=9032515&amp;utm_medium=email" id="539">
+    <title>¿Quién es mi administrador? - Ayuda de Administrador de G Suite</title>
+  </bookmark>
+  <bookmark href="https://support.google.com/a/answer/181865?hl=es" id="550">
+    <title>Servicios adicionales de Google - Ayuda de Administrador de G Suite</title>
+  </bookmark>
+  <bookmark href="https://gsuite.google.es/learning-center/#!/" id="551">
+    <title>Centro de Aprendizaje de G Suite: toda la formación que necesitas en un solo lugar</title>
+  </bookmark>
+  <bookmark href="https://support.google.com/accounts/answer/181692?hl=es" id="552">
+    <title>Acceso a los datos por parte del administrador o del proveedor de servicios - Ayuda de Cuenta de Google</title>
+  </bookmark>
+  <bookmark href="https://safety.google/security/security-tips/#home" id="553">
+    <title>Consejos de seguridad | Centro de seguridad de Google</title>
+  </bookmark>
+  <bookmark href="https://gsuite.google.com/intl/es/terms/user_features.html" id="554">
+    <title>Condiciones de Servicio de G Suite – G Suite</title>
+  </bookmark>
+  <bookmark href="https://policies.google.com/terms?gl=MX&amp;hl=es" id="555">
+    <title>Condiciones de servicio de Google – Privacidad y Condiciones – Google</title>
+  </bookmark>
+  <bookmark href="https://policies.google.com/privacy" id="566">
+    <title>Política de Privacidad – Privacidad y condiciones – Google</title>
+  </bookmark>
+  <bookmark href="https://support.google.com/accounts/answer/183723" id="567">
+    <title>Configurar un número de teléfono o una dirección de correo electrónico de recuperación - Ordenador - Ayuda de Cuenta de Google</title>
+  </bookmark>
+  <bookmark href="https://support.google.com/a/answer/6375836?hl=es" id="568">
+    <title>Obtener ayuda para acceder a cuentas de Google - Ayuda de Administrador de G Suite</title>
+  </bookmark>
+  <bookmark href="http://cgti.udg.mx/office365?fbclid=IwAR3cuWFGl1xKABDxb5QDkZXUZzR7TqUZ_Eqhx6R7a-8_o9BVj8eDF4yNOPc" id="569">
+    <title>Creacíon de cuenta Office 365 | Coordinación General de Tecnologías de Información</title>
+  </bookmark>
+  <bookmark href="https://www.meganoticias.mx/guadalajara/noticia/15-de-enero-inicia-la-entrega-de-bienevales/50313?fbclid=IwAR37gIiSOGnQEOJ6y92vGqtxndY121SRv3mLPUlUScgTNNixCplSD7Bmzho" id="570">
+    <title>MEGANOTICIAS - 15 de Enero inicia la entrega de Bienevales</title>
+  </bookmark>
+  <bookmark href="https://careers.ibm.com/ShowJob/Id/457704/STUDENTS-CIO-Application-Developer/?lang=es" id="571">
+    <title>STUDENTS CIO Application Developer Job in GUADALAJARA, JALISCO | IBM</title>
+  </bookmark>
+  <bookmark href="http://localhost:8080/jasperserver-pro" id="572">
+    <title>jasper</title>
+  </bookmark>
+  <bookmark href="https://docs.google.com/forms/d/e/1FAIpQLSdiIhQ9vgcXYmo6CnaSMrECEd6d6U25G8zt5fo0-17lqzK2Ww/viewform?fbclid=IwAR1gUXIofOWZMRBSzuG1e0ElzTkXVcXbfCyQeewkplQ6V0fGUmkggcK-mhU" id="583">
+    <title>MATERIA DE VERANO 2019V</title>
+  </bookmark>
+  <bookmark href="https://guadalajara.gob.mx/trascender/principal#" id="584">
+    <title>trascender</title>
+  </bookmark>
+  <bookmark href="https://archive.ics.uci.edu/ml/index.php" id="585">
+    <title>UCI Machine Learning Repository</title>
+  </bookmark>
+  <bookmark href="http://www.cucei.udg.mx/carreras/informatica/es/proyectos-modulares?fbclid=IwAR1NSdebchJ487LKYpOnDP4ItoM-6sg3jVeUothrgw69TduaIaEw0RoQp3o" id="586">
+    <title>Proyectos Modulares | Ingeniería Informática</title>
+  </bookmark>
+  <bookmark href="https://www.edrawsoft.com/thankyou-install/edrawmax.php?f=product-inst" id="587">
+    <title>Installation Successful of Edraw Max</title>
+  </bookmark>
+  <bookmark href="https://www.ilovepdf.com/" id="588">
+    <title>iLovePDF | Online PDF tools for PDF lovers</title>
+  </bookmark>
+  <bookmark href="https://drive.google.com/file/d/163GPFS3ZiHpauOjMWEuFk0RG27GnjZyK/view" id="589">
+    <title>soulknight-mod-menu-v2.3.5.apk - Google Drive</title>
+  </bookmark>
+  <bookmark href="https://accounts.google.com/b/0/AddMailService" id="590">
+    <title>Gmail</title>
+  </bookmark>
+  <bookmark href="https://youtube.com/" id="591">
+    <title>YouTube</title>
+  </bookmark>
+  <bookmark href="https://maps.google.com/" id="602">
+    <title>Maps</title>
+  </bookmark>
+  <bookmark href="https://news.google.com/" id="603">
+    <title>Noticias</title>
+  </bookmark>
+  <bookmark href="https://translate.google.com/" id="604">
+    <title>Traducir</title>
+  </bookmark>
+  <bookmark href="http://escolar.udg.mx/egresados" id="605">
+    <title>Graduados | Coordinación General de Control Escolar</title>
+  </bookmark>
+  <folder id="606">
+    <title>Mozilla Firefox</title>
+    <bookmark href="https://support.mozilla.org/products/firefox" id="619">
+      <title>Obtener ayuda</title>
+    </bookmark>
+    <bookmark href="https://support.mozilla.org/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&amp;utm_medium=default-bookmarks&amp;utm_campaign=customize" id="620">
+      <title>Personalizar Firefox</title>
+    </bookmark>
+    <bookmark href="https://www.mozilla.org/contribute/" id="621">
+      <title>Involúcrate</title>
+    </bookmark>
+    <bookmark href="https://www.mozilla.org/about/" id="622">
+      <title>Acerca de nosotros</title>
+    </bookmark>
+  </folder>
+  <folder id="607">
+    <title>Bookmarks Bar</title>
+  </folder>
+  <folder id="608">
+    <title>Other Bookmarks</title>
+  </folder>
+</folder>
+<folder id="2">
+  <title>Other Bookmarks</title>
+</folder>
+<folder id="3">
+  <title>Marcadores móvil</title>
+  <bookmark href="http://mp3wifi.com/5c772c36/avenged-sevenfold-requiem.html" id="14">
+    <title>Avenged Sevenfold Requiem Mp3: Download (6.12 MB)</title>
+  </bookmark>
+  <bookmark href="http://10.214.47.253/login.php?wlan=65537&amp;token=HMSyh5BKX7YBpvyNUoEnfQ!!&amp;dest=eu.wildraiderz.com/Index.aspx#" id="15">
+    <title>Captive Portal</title>
+  </bookmark>
+  <bookmark href="https://www.change.org/p/masangsoft-bring-back-raiderz/w?source_location=petitions_share_skip" id="16">
+    <title>Comunidad · Masangsoft: Bring back RaiderZ · Change.org</title>
+  </bookmark>
+  <bookmark href="https://apkmody.io/games/soul-knight.html" id="17">
+    <title>Soul Knight MOD APK 2.5.0 (Full Gems, Characters &amp; Skills) Download</title>
+  </bookmark>
+  <bookmark href="https://m.animeflv.net/anime/5655/mugen-no-juunin-immortal" id="18">
+    <title>Ver Mugen no Juunin: Immortal Capítulos Online - AnimeFLV</title>
+  </bookmark>
+  <bookmark href="https://fiber.google.com/intl/es/speedtest/" id="19">
+    <title>Prueba de velocidad de internet | Comprueba la velocidad de banda ancha | Google Fiber</title>
+  </bookmark>
+  <bookmark href="https://www.mediafire.com/file/cr4h5i3lnsgdsbr/pp.dat/file" id="20">
+    <title>pp</title>
+  </bookmark>
+  <bookmark href="https://www.google.com/search?q=bines&amp;client=ms-android-xiaomi-rvo3&amp;sca_esv=569794731&amp;prmd=ivsn&amp;sxsrf=AM9HkKn_vxQgAn3NRAFzXJDgNrmFPLYYXA:1696132754803&amp;source=lnms&amp;sa=X&amp;ved=2ahUKEwi15t3y-tOBAxUkmGoFHeF-CMYQ_AUoAXoECAMQAQ&amp;biw=393&amp;bih=766&amp;dpr=2.75&amp;udm=2" id="21">
+    <title>bines - Buscar con Google</title>
+  </bookmark>
+  <bookmark href="https://micuenta.infonavit.org.mx/" id="22">
+    <title>Mi Cuenta Infonavit</title>
+  </bookmark>
+  <bookmark href="https://tekilaz.co/episode/the-boys-1x5/" id="23">
+    <title>Ver Episodio The Boys 1x5 Online Latino en HD - Tekilaz</title>
+  </bookmark>
+  <bookmark href="https://gnula.vip/ver-sky-sharks-online-espanol/" id="34">
+    <title>▷ Ver Sky Sharks (2020) Online Gratis Español - Gnula</title>
+  </bookmark>
+  <bookmark href="https://www.digitalife.com.mx/entrar" id="35">
+    <title>Digitalife eShop</title>
+  </bookmark>
+</folder>
+</xbel>
