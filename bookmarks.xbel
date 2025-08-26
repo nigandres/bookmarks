@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :644: for Floccus bookmark sync browser extension -->
+<!--- highestId :645: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -1691,6 +1691,9 @@
       </bookmark>
       <bookmark href="https://dev.azure.com/PepsiCoIT/Global_Data_Project/_workitems/recentlyupdated/" id="490">
         <title>Work items - Boards</title>
+      </bookmark>
+      <bookmark href="https://dev.azure.com/PepsiCoIT/Global_Data_Project/_wiki/wikis/Global_Data_Project.wiki/59452/Accessing-BFF-Logs-in-Elastic" id="645">
+        <title>Accessing BFF Logs in Elastic - Overview</title>
       </bookmark>
     </folder>
   </folder>
