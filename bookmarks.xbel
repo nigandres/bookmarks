@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :643: for Floccus bookmark sync browser extension -->
+<!--- highestId :644: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -1688,6 +1688,9 @@
       </bookmark>
       <bookmark href="https://pepsicoprodus.kb.southcentralus.azure.elastic-cloud.com:9243/spaces/space_selector" id="643">
         <title>Elastic</title>
+      </bookmark>
+      <bookmark href="https://pepsicoprodus.kb.southcentralus.azure.elastic-cloud.com:9243/s/it-monitoring-users/app/discover#/?_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now-15m,to:now))&amp;_a=(columns:!(),dataSource:(dataViewId:&apos;4475933b-2fd0-4d7f-addd-38754b089363&apos;,type:dataView),filters:!(),interval:auto,query:(language:kuery,query:&apos;not%20message%20:%20passthroughcluster%20and%20message%20:%20b2b.mx&apos;),sort:!(!(&apos;@timestamp&apos;,desc)))" id="644">
+        <title>Discover - Elastic</title>
       </bookmark>
     </folder>
   </folder>
