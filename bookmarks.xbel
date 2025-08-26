@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :642: for Floccus bookmark sync browser extension -->
+<!--- highestId :643: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -369,7 +369,7 @@
           <title>Chobits</title>
         </bookmark>
         <bookmark href="http://animeflv.net/anime/cyclops-shoujo-saipu.html" id="290">
-          <title>Cyclops Shoujo Saipu </title>
+          <title>Cyclops Shoujo Saipu</title>
         </bookmark>
         <bookmark href="http://www.animeyt.tv/dagashi-kashi" id="388">
           <title>Dagashi Kashi</title>
@@ -537,7 +537,7 @@
           <title>Shingeki no Kyojin 2</title>
         </bookmark>
         <bookmark href="http://www.animeyt.tv/sukasuka" id="561">
-          <title>Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka? </title>
+          <title>Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?</title>
         </bookmark>
         <bookmark href="http://www.animeyt.tv/steins-gate" id="562">
           <title>Steins;Gate</title>
@@ -700,6 +700,9 @@
         </bookmark>
         <bookmark href="https://m.animeflv.net/anime/3891/monogatari-series-second-season" id="642">
           <title>Ver Monogatari Series: Second Season Capítulos Online - AnimeFLV</title>
+        </bookmark>
+        <bookmark href="https://pepsicoprodus.kb.southcentralus.azure.elastic-cloud.com:9243/spaces/space_selector" id="643">
+          <title>Elastic</title>
         </bookmark>
       </folder>
       <folder id="127">
@@ -1078,7 +1081,7 @@
         <title>PROGRA Curso de HTML 5</title>
       </bookmark>
       <bookmark href="https://www.youtube.com/playlist?list=PLDQZoQpLCoUCTF4OVK-cR8nxEq3y83gyt" id="176">
-        <title>PROGRA Curso de HTML5 - Diseño web </title>
+        <title>PROGRA Curso de HTML5 - Diseño web</title>
       </bookmark>
       <bookmark href="https://www.youtube.com/playlist?list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID" id="177">
         <title>PROGRA Curso de JavaScript</title>
