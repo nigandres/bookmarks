@@ -1617,6 +1617,9 @@
       <bookmark href="https://pepsicoprodus.kb.southcentralus.azure.elastic-cloud.com:9243/s/it-monitoring-users/app/discover#/?_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now-15m,to:now))&amp;_a=(columns:!(),dataSource:(dataViewId:&apos;4475933b-2fd0-4d7f-addd-38754b089363&apos;,type:dataView),filters:!(),interval:auto,query:(language:kuery,query:&apos;not%20message%20:%20passthroughcluster%20and%20message%20:%20b2b.mx&apos;),sort:!(!(&apos;@timestamp&apos;,desc)))" id="644">
         <title>Discover - Elastic</title>
       </bookmark>
+      <bookmark href="https://pepsicoprodus.kb.southcentralus.azure.elastic-cloud.com:9243/s/it-monitoring-users/app/discover#/?_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now-7d%2Fd,to:now))&amp;_a=(columns:!(message,kubernetes.container.name),dataSource:(dataViewId:daa8d5e2-2399-4a4a-a136-628e15c3a88e,type:dataView),filters:!(),interval:auto,query:(language:lucene,query:&apos;message:%20%22B2B.MX.1003146810%22&apos;),sort:!(!(&apos;@timestamp&apos;,asc)))" id="650">
+        <title>Discover - Elastic</title>
+      </bookmark>
       <bookmark href="https://myidm.mypepsico.com/iam/im/pepsico/ca12/index.jsp" id="263">
         <title>PepsiCo Identity Manager</title>
       </bookmark>
@@ -1706,9 +1709,6 @@
       </bookmark>
       <bookmark href="https://pede-recebe.pt/" id="489">
         <title>pede-recebe.pt</title>
-      </bookmark>
-      <bookmark href="https://pepsicoprodus.kb.southcentralus.azure.elastic-cloud.com:9243/s/it-monitoring-users/app/discover#/?_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now-7d%2Fd,to:now))&amp;_a=(columns:!(message,kubernetes.container.name),dataSource:(dataViewId:daa8d5e2-2399-4a4a-a136-628e15c3a88e,type:dataView),filters:!(),interval:auto,query:(language:lucene,query:&apos;message:%20%22B2B.MX.1003146810%22&apos;),sort:!(!(&apos;@timestamp&apos;,asc)))" id="650">
-        <title>Discover - Elastic</title>
       </bookmark>
     </folder>
   </folder>
