@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :652: for Floccus bookmark sync browser extension -->
+<!--- highestId :653: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -1715,6 +1715,9 @@
       </bookmark>
       <bookmark href="https://dev.azure.com/PepsiCoIT/Global_Data_Project/_wiki/wikis/Global_Data_Project.wiki/45591/B2B-BFF" id="652">
         <title>B2B - BFF - Overview</title>
+      </bookmark>
+      <bookmark href="https://nomina-tata-buzon.estelaglobal.com/" id="653">
+        <title>Cfdi buzón nómina</title>
       </bookmark>
     </folder>
   </folder>
