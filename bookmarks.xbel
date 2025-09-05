@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :657: for Floccus bookmark sync browser extension -->
+<!--- highestId :658: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -236,6 +236,9 @@
       </bookmark>
       <bookmark href="https://chat.deepseek.com/a/chat/s/3063a608-f9fb-4c12-a8c6-ce7d905dbaef" id="483">
         <title>DeepSeek - Into the Unknown</title>
+      </bookmark>
+      <bookmark href="https://jsonformatter.curiousconcept.com/#" id="658">
+        <title>JSON Formatter &amp; Validator</title>
       </bookmark>
     </folder>
     <folder id="57">
