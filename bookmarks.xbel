@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :660: for Floccus bookmark sync browser extension -->
+<!--- highestId :661: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -242,6 +242,9 @@
       </bookmark>
       <bookmark href="https://www.toptal.com/developers/json-formatter" id="660">
         <title>Online JSON Formatter &amp; Validator | Toptal®</title>
+      </bookmark>
+      <bookmark href="https://dpatechdocs.mypepsico.com/b2b/observability/pepsiconnect/orderreport/orderreport" id="661">
+        <title>Order View App</title>
       </bookmark>
     </folder>
     <folder id="57">
